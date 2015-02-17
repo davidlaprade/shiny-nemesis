@@ -7,3 +7,5 @@ These inferences are invalid because it is possible for all of their premises to
 
 
 Module 2 : Reasons vs. Causes
+Distinguish between a person's reasons for believing that p from the causes of his/her believing that p. The two are distinct.
+
