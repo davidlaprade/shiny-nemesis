@@ -1,0 +1,11 @@
+### Intrinsic vs. Extrinsic Probability
+
+Distinguish two types of probability: intrinsic and extrinsic probability. The two are not the same. To see the difference, image that Smith has washed the dishes every night the past year. Now, supposed we want to know the probability of the following event:
+	Smith washes the dishes tomorrow.
+
+Distinguish two types of probability: intrinsic and extrinsic probability. To see the difference, suppose that Smith is trying to guess Jones' password. Jones' password is an alpha-numeric string 6 characters in length. Ignoring case and special symbols, this means that Jones' password could be any of 2.5 billion (37^6) possible different strings. Now, suppose that Smith has a certain password in mind. He thinks Jones' password is 'muffin'. The proabability that Jones' password is indeed 'muffin' is 1 in 2.5 billion--exceedingly small. Smith, however, has some inside information: (i) Jones uses his cat's name for all of his passwords, and (ii) his cat's name is 'muffin'. Suppose both (i) and (ii) are true. It follows that the probability that Jones' password is 'muffin' is extremely high (it's 1). But now we have a contradiction. We've said both that the probability that 'muffin' is his password is extremely low and not extremely low (in this case: extremely high).
+
+Alternatively, suppose that the probability of getting in a car accident is 1 in 3000 trips. Hence, it is very unlikely that Jones will get into an accident on this trip. Jones, however, is drunk. He is also blind. And he is driving during rush hour in Boston. Hence, it is very likely that Jones will get into an accident on this trip. But now it seems we have a contradiction. Is it likely or unlikely that he will get into an accident on this trip? Both. There is no contradiction because we are talking about different things. Intrinisc and extrinsic probability.
+
+Actually, though, it seems like we're just tacitly figuring out the probability of two different events: (i) that a person get into an accident on this trip, (ii) that Jones in his present condition get into an accident on this trip. It seems that the level of generality that we speak at is very important--that probabilities are very sensitive to it. 
+
