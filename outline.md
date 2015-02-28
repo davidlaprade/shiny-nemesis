@@ -28,3 +28,12 @@
     - That is important to note!
     - This explains why she thinks that our "full-fledged evaluative judgements would have been very different [. . .] had the general content of our basic evaluative tendencies been very different"
 
+Dialectic:
+  - Me:
+    - It's implausible that everyone believes the moral claims that they do only because they have the moral tendencies they have. 
+    - Utilitarians believe what they do not because of their moral dispositions, but because of their beliefs about utilitiy. 
+    - Kantians believe what they do because of their beliefs about categorical imperatives. Etc.
+  - Street: 
+    - People adopt moral theories only because they accord with their moral dispositions or intuitions--ideally after those dispositions/intuitions have been brought into reflective equilibrium with one another.
+  - Me:
+    - draw a distinction between intuitions and dispositions
