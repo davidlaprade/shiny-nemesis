@@ -36,4 +36,9 @@ Dialectic:
   - Street: 
     - People adopt moral theories only because they accord with their moral dispositions or intuitions--ideally after those dispositions/intuitions have been brought into reflective equilibrium with one another.
   - Me:
-    - draw a distinction between intuitions and dispositions
+    - There is a distinction between intuitions and dispositions
+  	- I have a *disposition* to regard people outside of my group as morally depraved/questionable
+	- There has been a lot of psychological research on this
+	- But my *intuition* is that there is nothing morally depraved about being outside my group, e.g. about being a Yankees fan, or a Southerner, or a woman
+    - Moral philosophers inevitably and ultimately rely on moral intuitions as evidence for their views
+    - But it's not yet clear that moral intuitions have been affected in the same way moral dispositions have been by evolution
