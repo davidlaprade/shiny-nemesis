@@ -1,16 +1,45 @@
 ## Paper  Outline
 
 ### Introduction
-
-### The Genetic Fallacy
+  - Street has failed to establish her conclusion, and has instead shown something uninteresting
+  - Her conclusion: "Contemporary realist theories of value [are . . .] [in]compatible with natural science"
+  - She has shown:
+     - people who's only evidence for their moral beliefs are their moral dispositions are unlikely to be correct about those beliefs
+  - this is something we already knew from history
+     - most people only follow their moral dispositions
+     - history has been the story of large-scale moral errors after moral errors, e.g. slavery, holocaust, etc.
 
 ### Reasons vs. Explanations
+  - There is a difference between a person's *reasons* for believing that p--i.e. one's rational justification--and the best *explanation* of his/her believing that p--i.e. what actually accounts for his/her belief. 
 
 ### Evidence is Objective
+  - The evidence or rational justification that any given person has for his/her belief that p does not depend on the consitution of human psychology
+  - If human beings had a different psychology/phenomenology--if they felt differently, or began to have different dispositions--this would not change evidential relations
+
+### The Genetic Fallacy
+  X believes that p just because of y
+  Hence, X's belief that p is unjustified	
+  - examples
+  - Inferences of this form are invalid because:
+     (i) there is a difference between rational justification and the best explanation of belief
+     (ii) rational justification 
 
 ### Street's Main Argument
 
+1. Our moral dispositions are evolved. 
+2. If they are evolved, then they were either selected for directly or indirectly.
+3. Hence, our moral dispositions were selected for directly or indirectly [from 1, 2]
+4. They were not selected for directly. 
+5. Hence, our moral dispositions were selected for indirectly. [from 3, 4]
+6. If they were selected for indirectly, then it is very unlikely that they are veridical. 
+7. Hence, it is very unlikely that our moral dispositions are dispositions to true beliefs. [from 5, 6]
+
 ### Street's Main Conclusion
+  - Her conclusion: "Contemporary realist theories of value [are . . .] [in]compatible with natural science"
+
+### Street's Main Argument is Valid and Sound
+
+### What Doesn't Follow from Street's Main Conclusion
 
 ### Intrinsic vs. Extrinsic Probability
 
@@ -18,27 +47,3 @@
   - beliefs cannot evolve
   - tendencies to believe can evolve, where one has a tendency to believe that p iff it's psychologically easy to believe that p (i.e. believing p reduces stress, reduces anxiety, increases pleasure, is intriniscally desireable)
   
-  > "In order for evolution by natural selection to take place with respect to a given trait, the trait in question must be genetically heritable. Yet it is implausible to think that the acceptance of a full-fledged evaluative judgement with a given content [. . .] is a genetically heritable trait. [. . .] In contrast, however, it is plausible to suppose that over the course of much of our evolutionary history, what I have been calling ‘‘more basic evaluative tendencies’’ were genetically heritable traits, where a basic evaluative tendency may be understood very roughly as an unreflective, non-linguistic, motivational tendency to experience something as ‘‘called for’’ or ‘‘demanded’’ in itself, or to experience one thing as ‘‘calling for’’ or ‘‘counting in favor of’’ something else." (118-119)
-  > Street says: "My point here is instead the simple and plausible one that had the general content of our basic evaluative tendencies been very different, then the general content of our full-fledged evaluative judgements would also have been very different" (120)
-  > "Imagine, for instance, that we had evolved more along the lines of lions, so that males in relatively frequent circumstances had a strong unreflective evaluative tendency to experience the killing of offspring that were not his own as ‘‘demanded by the circumstances,’’ [. . .]  in these and other such cases our system of full-fledged, reflective evaluative judgements would have looked very different as well, and in ways that loosely reflected the basic evaluative tendencies in question." (120-121)
-  - Small point: who is this "we" and "our" that she is referring to? Moral philosophers? The folk? Everyone?
-  - It's not clear why Street thinks this
-  - Given that there is a distinction between having a tendency to believe that p and *actually believing* that p, why should we think that our evaluative beliefs would be different if our evaluative tendencies had been different?
-    - One obvious answer is that Street assumes that we believe moral claims *only because* we have the tendency to believe them
-    - That is important to note!
-    - This explains why she thinks that our "full-fledged evaluative judgements would have been very different [. . .] had the general content of our basic evaluative tendencies been very different"
-
-Dialectic:
-  - Me:
-    - It's implausible that everyone believes the moral claims that they do only because they have the moral tendencies they have. 
-    - Utilitarians believe what they do not because of their moral dispositions, but because of their beliefs about utilitiy. 
-    - Kantians believe what they do because of their beliefs about categorical imperatives. Etc.
-  - Street: 
-    - People adopt moral theories only because they accord with their moral dispositions or intuitions--ideally after those dispositions/intuitions have been brought into reflective equilibrium with one another.
-  - Me:
-    - There is a distinction between intuitions and dispositions
-  	- I have a *disposition* to regard people outside of my group as morally depraved/questionable
-	- There has been a lot of psychological research on this
-	- But my *intuition* is that there is nothing morally depraved about being outside my group, e.g. about being a Yankees fan, or a Southerner, or a woman
-    - Moral philosophers inevitably and ultimately rely on moral intuitions as evidence for their views
-    - But it's not yet clear that moral intuitions have been affected in the same way moral dispositions have been by evolution
