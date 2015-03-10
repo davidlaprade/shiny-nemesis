@@ -46,6 +46,35 @@
     - hence, natural science is incompatible with realism
    
 ### The Conclusion of Street's Main Argument Does Not Entail Her Second Supplemental Premise
+  If our moral dispositions are evolved, then it is very unlikely that our moral dispositions are dispositions to true beliefs
+  Hence, natural science entails that we don't have a knowledge of value
+  - this is invalid
+  - possible:
+	- Jack's moral dispositions are the result of evolution by natural selection and it is very unlikely that they point to true propositions
+	- however, his dispositions are no part of what he takes as evidence for the moral claims that he believes
+	- as it happens, Jack's moral beliefs are true and, because his evidence was good enough, constitute knowledge
+  - in this case, the premises are all true and the conclusion is false
+  -reply:
+	- we already know Street is assuming that we believe ethical claims **just because** of our dispositions
+	- does this allow her to derive the supplemental premise she needs?
+  - adding the premise that we (everyone?) believe ethical claims **just because** of our dispositions turns this into an instance of the genetic fallacy
+	- the best explanation of our beliefs aside, we should be asking: what is the evidence?
+	- Street herself seems to admit this elsewhere: "If the causal process that gave rise to one’s belief that P is such that (as far as one knows) there is no reason to think that it would lead one to form true beliefs about the subject matter in question—and if (as far as one knows) there is no other good reason to believe that P—then one should suspend belief that P" (from David's article)
+
+### Extreme Epistemic Caution
+  - Street has a way out:
+	- if evidential relations themselves depend up on the constitution of our psychology or on our phenomenology, and we've just shown that our phenomenology has been altered by evolution to favorvalue claims, then shouldn't there be a kind of extreme epistemic caution required to justify these claims? 
+	- she then just has to show that moral claims lack the additional epistemic backing to conclude that they do not consitute knowledge
+  - this seems like a plausible way to reply
+	- suppose you're prone to a certain optical illusion, e.g. that black and blue dresses look white and gold to you
+	- normally, when you form beliefs about the color of clothes you move quickly from how things appear to you to beliefs about their colors
+	- but this time your friend Molly has asked you--at the last minute, on the morning of her wedding--to pick out a veil for her
+	- only thing: the veil has to be white and gold--those are the colors of her dress
+	- so you rush to the wedding store and look through the veils
+	- you find one that looks white and gold, and are about to buy it
+	- but would you be justified in buying it? Do you have good enough evidence to buy it?
+	- It would seem that, though most people in such a circumstance would have enough evidence, you do not
+	- Because of what you know about how your phenomenology is misleading, an extra stringent epistemological standard applies	
 
 ### Intrinsic vs. Extrinsic Probability
 
