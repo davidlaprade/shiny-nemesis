@@ -99,7 +99,33 @@
   - many (perhaps most) of my moral intuitions disagree with my moral dispositions
   - arguably I (and everyone else) is disposed to regard members of out groups as morally suspicious
   - cite psychology study
+  - moral intuitions can conflict with moral dispositions
+	- Either society, or genetics, or some combination, has left me (and most people) with the disposition to regard the work of women as less valuable than that of men
+	- This notwithstanding, I have the moral intuition that there is no difference in value between such work
+	- And it is the intuition that I agree with
+  - sometimes the conflict is won by the disposition
+	- Probably we all have dispositions to regard members of out-groups as morally suspicious
+	- Consider homosexuals: a politically salient out-group
+	- One very good explanation of why homosexuals have been mistreated is that most people have dispositions to regard their behavior as morally suspicious
+	- But most peoples' moral intuition says otherwise
+	- Here again, the intuition is what seems to drive belief/judgement for most people
+	- But consider Catholics: it's not unlikely to think that there are many Catholics for whom:
+		(a) they have the disposition to regard homosexuals as morally suspicious (because they are members of an out-group)
+		(b) they have the intuition that there is nothing morally problematic about homosexual acts, and yet
+		(c) their moral judgement aligns with their **disposition**, not their intuition
 
 ### Reply to the Objection
-  - the various ethical positions are the result of trying to bring our moral **intuitions** into reflective equilibrium with one another
-  - it's n
+  - moral dispositions are not our only grip on morality: we also have moral intuition
+	- the two are not the same, nor is it obvious that/how they are related
+	- [but what about the "core" cases Street brings up? Peter Singer and speciesism to the rescue?]
+  - it's far from obvious that "having the moral intuition that p" is capable of biological heritance, and thus evolutionary selection
+	- people's intuitions change over time, and in unpredictable ways
+	- it's not clear that if we could pick out the neurological correlates to every instance of what we'd describe as an "intuition" that there would be anything common to them
+  - ethicists seem to formulate their criteria of goodness/badness based on moral intuition, not disposition
+
+### Objection: Ethicists do not Provide Evidence, they Provide examples of conclusions already drawn
+  - basically: ethicists are concerned with what constitutes goodness, not what is evidence for it
+  - reply: granted, but that doesn't mean that they don't/can't bolster evidence for their claims on the basis of their beliefs about what consistutes goodness
+	- a similar case:
+	- we disagree over whether Elvis is depicted on the TV
+	- if you and I agree that distribution of pixels D constitutes an Elvis depiction, then evidence for the claim that Elvis is depicted certainly **could** include evidence that D was present on the screen 
