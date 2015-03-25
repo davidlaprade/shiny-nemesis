@@ -1,15 +1,18 @@
 ## Paper  Outline
 
 ### Introduction
-  - There are many tacit premises that go unstated in Street's argument; some of them are false 
+ - Street claims to have shown that moral realism is inconsistent with natural science
+ - I here show that her argument for this conclusion is guilty of the genetic fallacy
+ 
+ - There are many tacit premises that go unstated in Street's argument; some of them are false 
  - Street has failed to establish her conclusion, and has instead shown something uninteresting
   - Her conclusion: "Contemporary realist theories of value [are . . .] [in]compatible with natural science"
   - She has shown:
      - people who's only evidence for their moral beliefs are their moral dispositions are unlikely to be correct about those beliefs
   - this is something we already knew from history
      - most people only follow their moral dispositions
-     - history has been the story of large-scale moral errors after moral errors, e.g. slavery, holocaust, etc.
-
+     - history has been the story of large-scale moral errors, e.g. slavery, holocaust, persecution of women, homosexuals, (arguably) abortion etc.
+	
 ### Reasons vs. Explanations
   - There is a difference between a person's *reasons* for believing that p--i.e. one's rational justification--and the best *explanation* of his/her believing that p--i.e. what actually accounts for his/her belief. 
 
