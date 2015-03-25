@@ -44,11 +44,13 @@
   - Her conclusion: "Contemporary realist theories of value [are . . .] [in]compatible with natural science"
   - strictly speaking, this is different from the conclusion of her main argument
   - but with two supplemental premises, it's easy to see the connection
-    (S1) realism about value assumes that value is knowable/known--it wouldn't be worth the title "realism" if it didn't
-    (S2) natural science (in particular: biology) shows that we don't have knowledge of value (from the conclusion of the main argument)    
-    - hence, natural science is incompatible with realism
+    (S1) if accepted claims in natural science (in particular: biology) are true, then we don't have knowledge of value (from the conclusion of the main argument)    
+    (S2) if we don't have knowledge of value, then realism about value isn't true
+   -------------
+    (MC) Hence, if accepted claims in natural science are true, then realism about value is false
+  - In other words, natural science is incompatible with realism
    
-### The Conclusion of Street's Main Argument Does Not Entail Her Second Supplemental Premise
+### The Conclusion of Street's Main Argument Does Not Entail Her Supplemental Premise
   If our moral dispositions are evolved, then it is very unlikely that our moral dispositions are dispositions to true beliefs
   Hence, natural science entails that we don't have a knowledge of value
   - this is invalid
