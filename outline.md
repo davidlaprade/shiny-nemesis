@@ -1,10 +1,11 @@
 0. Abstract
-- Street has painted with broad strokes
-  - there are many places to take issue
-- I clarify her case and attempt to strengthen it
-- then I show how even on a strengthened account the dilemma may be avoided
+- there is much to take issue with in Street’s “Darwinian Dilemma”
+- I first clarify her case, avoiding needless objections
+- then I show how even this strengthened version fails to rationally discredit a
+  certain form of realism
 
 1. Introduction
+
 
  2. Preliminaries
   - moral intuitions/phenomenology
@@ -65,7 +66,12 @@ of’’ assisting that other individual in similar ways.” 117
     - the best explanation of these facts is that the trait is evolved
   - if it is evolved, then it was selected for directly or indirectly
     - direct vs indirect selection
-      - you can pull this bit from the objects paper
+- There are two and only two ways for any given trait to evolve: either it can
+  be selected for directly or it can be selected for indirectly. A trait is
+selected for iff organisms with that trait are fitter (have a greater propensity
+to leave offspring) than those without the trait, all else being equal.
+Selection is then direct iff the trait itself is the cause of the fitness
+increase, and indirect otherwise. (cite waters)
   - it wasn’t selected for indirectly
     - she settles this one from the armchair
 -  [N]ote the [enormous] costs and benefits, as measured in the Darwinian
@@ -101,21 +107,11 @@ full-fledged evaluative judgement” 118
       - so if we’re really going to be taking our biology seriously, we
         shouldn’t be taking this line of argument seriously
     - for these two reasons, this claim is poorly defended
-  - I actually don’t think it matters whether moral psychology was selected for
-    directly or indirectly
-    - either way, the genesis of our moral psychology was due to a certain trait
-      increasing fitness
-      - whether that trait is moral psychology itself, or our having hair on our
-        heads, it doesn’t matter
-      - the issue remains that increased fitness is neutral with respect to
-        moral truth
-
-    - this is a needless detail that I think Street can’t really justify anyway
+  - this actually isn’t going to matter
     - officially, I propose we drop it from her statement from the problem
     - all Street needs to get her argument off the ground is that it was an
       evolved trait
-    - to see this, we should clarify Street’s statement of her “dilemma”
-- she states it as a matter of declaring a relationship
+- she states her Dilemma as a matter of declaring a relationship
 “The basic problem for realism is that it needs to take a position on what
 relation there is, if any, between the selective forces that have influenced the
 content of our evaluative judgements, on the one hand, and the independent
@@ -127,9 +123,10 @@ evaluative truths that realism posits, on the other.” 121
 - But forces and truths aren’t objects.
 - So, unless she has some idiosyncratic meaning of “relation” in mind, what is
   she talking about?
+- this is one of the ways in which Street’s argument generates unnecessary chaff
 - I think she wants the realist to answer the following question:
   - did the truthmakers of moral claims affect the way our moral psychology
-    evolved? if so, how?
+    evolved-- and if so, how?
 - the dilemma is thus the following:
 - either the truthmakers of moral claims affected the way our moral psychology
   evolved or they didn’t
@@ -372,12 +369,12 @@ stop at the base rate in our calculations of the events we’re interested in
   beliefs are true
 - hence, our beliefs are not true: realism is false
 - textual evidence that this is what Street has in mind
-  - Of course it’s possible that as a matter of sheer chance, some large portion
-    of our evaluative judgements ended up true, due to a happy coincidence
-between the realist’s independent evaluative truths and the evaluative
-directions in which natural selection tended to push us, but this would require
-a fluke of luck that’s not only extremely unlikely, in view of the huge universe
-of logically possible evaluative judgements and truths, but also astoundingly
+- Of course it’s possible that as a matter of sheer chance, some large portion
+  of our evaluative judgements ended up true, due to a happy coincidence between
+the realist’s independent evaluative truths and the evaluative directions in
+which natural selection tended to push us, but this would require a fluke of
+luck that’s not only extremely unlikely, in view of the huge universe of
+logically possible evaluative judgements and truths, but also astoundingly
 convenient to the realist. Barring such a coincidence, the only conclusion
 remaining is that many or most of our evaluative judgements are off track. 122
 6.1 Improbability and Mechanism
@@ -479,89 +476,43 @@ coincidence (something requiring explanation to be justifiably believed)
   - but this is not so
   - it is thus the further hole in this manner of patching Street’s case
 
-2.3.0 The Argument from Epistemic Bias
-- if evidential relations themselves depend up on the constitution of our
-  psychology or on our phenomenology, and we've just shown that our
-phenomenology has been altered by evolution to favor value claims, then
-shouldn't there be a kind of extreme epistemic caution required to justify these
-claims?
-- argument
-- it is very unlikely that our moral dispositions are dispositions to true
-  beliefs
-- hence, we’re biased with respect to our evaluation of moral judgments
-- if we’re biased, then extra epistemic care must be taken for us to be
-  justified in our judgements
-- extra epistemic care has not been taken
-- hence, our judgments aren’t justified
-- hence, realism is false
-- consider
-- suppose you're prone to a certain optical illusion, e.g. that black and blue
-  dresses look white and gold to you
-- normally, when you form beliefs about the color of clothes you move quickly
-  from how things appear to you to beliefs about their colors
-- but this time your friend Molly has asked you--at the last minute, on the
-  morning of her wedding--to pick out a veil for her
-- only thing: the veil has to be white and gold--those are the colors of her
-  dress
-- so you rush to the local Dress Barn and look through the headwear
-- you find one that looks white and gold, and are about to buy it
-- but would you be justified in buying it given that you are disposed to this
-  illusion?
-- Do you have good enough evidence to buy it? Would people understand if you
-  bought it and were wrong?
-- It would seem that, though most people in such a circumstance would have
-  enough evidence, you do not
-- you should consult a store clerk, or take a picture and send it to Molly first
-- Because of what you know about how your phenomenology is misleading, an extra
-  stringent epistemological standard applies
-- we would seem to be in a similar predicament if Street is correct
-  - we all have dispositions that are as reliable as picking randomly from a
-    large pool of bad choices
-  - shouldn’t an extra stringent epistemological standard apply to us too? -- it
-    seems so
-- but do we see anything approaching extra care taken in the evaluation of moral
-  beliefs? -- it seems not
-  - what are some of the marks of careful epistemological practices?
-  - open-mindedly considering all possible alternatives
-- weighing evidence for and against
-- careful definition of terminology; eschewing jargon
-- abstaining from adopting a view until well after it seems one has made his/her
-  case
-  - do we see these kinds of things amongst either ordinary people or trained
-    ethicists?
-- answer: no
-- you see people digging in their heels, forming camps, insulating their views
-  from possibly being discredited, embracing jargon
-  - hence, it seems reasonable to say that no such extra stringent
-    epistemological standard has been met
-  - hence, our judgments aren’t justified and realism is false
-
-2.3.1. Evidence is Objective
-- consider two views about evidence: subjective vs objective
-- Objective = the evidence or rational justification that any given person has
-  for his/her belief that p does not depend on the constitution of human
-psychology
-- If human beings had a different psychology/phenomenology--if they felt
-  differently, or began to have different dispositions--this would not change
-evidential relations
-- Subjective = ~ Objective
-- evidence is objective
-  - my saying this is based on the belief that what we know about the world
-    would not be unmade if something was put in the water to make reds look
-green, e = mc2 look like a complicated view, ordinary claims look outlandish
-  - the evidential base (even if we no longer are capable of having the
-    phenomenology again) remains sturdy
-  - we should remain convinced of our view of the world
-
-2.3.2. Epistemic Bias Reconsidered
-- this way of bridging the gap asserts that bias requires epistemic caution
-- there are two things that might mean
-  1. we should be more careful when evaluating evidence, but the evidential bar
-     remains the same
-  2. the evidential bar has been raised: the amount/quality of evidence that
-     normally would justify a view is not enough in this case
-- I think that 1 is true and 2 is false, on grounds of the objectivity of
-  evidence
+7.0 No Epistemic Base
+  - moral theorizing seems to rely on our moral psychology for all of its
+    evidence
+  - if the negative realist is right, then that evidence is bad evidence
+  - hence, there is no good evidence for moral claims
+  - hence, moral claims are unjustified
+  - hence they don’t constitute knowledge
+  - hence realism is wrong
+- quote from Street
+- The objection gains its plausibility by suggesting that rational reflection
+  provides some means of standing apart from our evaluative judgements, sorting
+through them, and gradually separating out the true ones from the false -- as if
+with the aid of some uncontaminated tool. But this picture cannot be right. For
+what rational reflection about evaluative matters involves, inescapably, is
+assessing some evaluative judgements in terms of others. Rational reflection
+must always proceed from some evaluative standpoint; it must work from some
+evaluative premises; it must treat some evaluative judgements as fixed, if only
+for the time being, as the assessment of other evaluative judgements is
+undertaken. In rational reflection, one does not stand completely apart from
+one’s starting fund of evaluative judgements: rather, one uses them, reasons in
+terms of them, holds some of them up for examination in light of others. The
+widespread consensus that the method of reflective equilibrium, broadly
+understood, is our sole means of proceeding in ethics is an acknowledgment of
+this fact: ultimately, we can test our evaluative judgements only by testing
+their consistency with our other evaluative judgements, combined of course with
+judgements about the (non-evaluative) facts. 124
+7.1 Reply
+the first premise has to be what’s wrong here
+basically: ethicists are concerned with what constitutes goodness, not what is
+evidence for it
+reply: granted, but that doesn't mean that they don't/can't bolster evidence for
+their claims on the basis of their beliefs about what consistutes goodness
+a similar case:
+we disagree over whether Elvis is depicted on the TV
+if you and I agree that distribution of pixels D constitutes an Elvis depiction,
+then evidence for the claim that Elvis is depicted certainly could include
+evidence that D was present on the screen
 
 8.0 The Argument from Evidence
 we believe our moral claims only because of our dispositions
