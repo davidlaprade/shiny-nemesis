@@ -250,81 +250,73 @@ blast -- a let’s-prove-it-by-examining-every-possibility-we-can-think-of
 argument. So I will not rehearse it here. Instead, I am going to take up just
 the part that applies to the horn that I intend to take.
 
-4. The Negative View
-- the solution I propose is to embrace the negative view: that the truthmakers
-  of moral claims did not affect the way our moral psychology evolved
-  - call a moral realist that adopts such a view a negative realist
-  - the negative realist says that moral psychology would have evolved as it did
-    whether or not moral claims were true
-  - moral psychology did not evolve as it did in any way because of the
-    truthmakers of moral claims
-- I think this view is plausible for independent reasons
-  - moral properties would seem to not have causal properties
-  - if they did, we could just detect them scientifically; we can’t, so they
-    don’t
-  - but if they lack causal properties, then they can’t have affected
-    evolutionary processes one way or the other
-  - QeD
-- we can also see that by taking the negative view, it doesn’t matter whether
-  moral psychology was selected for directly or indirectly
-  - either way, on this view the genesis of our moral psychology was unaffected
-    by the truthmakers of moral claims
-  - hence, the forces which determined the constitution of our moral psychology
-    were random with respect to the truth of moral claims
-  - similarly: the forces which shaped the grand canyon were random with respect
-    to its beauty
-    - if some bit of moral psychology happens to be veridical, this is by random
-      chance
-    - if the Grand Canyon happens to be beautiful (as it does), this was by
-      random chance
-- this solution comes with baggage
-  - the forces which determined the constitution of our moral psychology were
-    random with respect to the truth of moral claims
-  - random picking is fine when doing so from a pool of mostly good choices
-  - unfortunately there was no such friendly pool from which evolution randomly
-    chose our moral psychology
-  - one important point that Street makes is to stress the range of possible
-    moral beliefs
-“Imagine, for instance, that we had evolved more along the lines of lions, so
+§4. The Negative View
+The solution I propose is to embrace the negative view: that the truthmakers of
+moral claims did not affect the way our moral psychology evolved. Call a moral
+realist that adopts such a view a negative realist. The negative realist says
+that moral psychology did not evolve as it did in any way because of the
+truthmakers of moral claims. It would have evolved as it did whether or not
+moral claims were true
+I think this view is plausible for reasons independent of Street’s argument.
+Moral properties do not seem to be the kinds of properties involved in causal
+relations. If they were, presumably we could just detect and study them
+scientifically. But we can’t detect and study them via scientific means. So
+moral properties aren’t involved in causal relations. But if they aren’t
+involved in causal relations, then they can’t have affected evolutionary
+processes one way or the other. They can’t have made some traits more
+advantageous than others. They can’t have promoted survival. And so on. This
+plausible view of moral properties seems to demand that moral realists be
+negative realists in exactly the sense I’ve specified.
+  By taking the negative position, the realist is playing into Street’s hand
+somewhat. The realist has admitted that the truthmakers of moral claims did not
+affect the evolution of moral psychology. Hence, it doesn’t matter whether
+Street has claimed that moral psychology was selected for directly or not.
+Either way -- whether it was moral psychology itself or some other trait being
+selected for -- the forces which determined the constitution of our moral
+psychology would have been unaffected by --  and thus random with respect to --
+the truth of moral claims. Consider a similar example: the forces which shaped
+the Grand Canyon were random with respect to its beauty. If the Grand Canyon
+happens to be beautiful, this was by random chance. If some bit of our moral
+psychology happens to be veridical, this is likewise by random chance. This is
+because in both cases the relevant forces were unaffected by either the truth or
+beauty of the thing in question.
+  The negative realist’s admission of randomness is not without its price.
+Random picking is fine when doing so from a pool of mostly good choices.
+Unfortunately, there was no such friendly pool from which evolution randomly
+chose our moral psychology. This was noted earlier. The pool of possible moral
+beliefs dwarfs the pool of true moral beliefs by orders of magnitude. One thing
+Street is very good at is driving home just how many alternative moral beliefs
+there are:
+Imagine, for instance, that we had evolved more along the lines of lions, so
 that males in relatively frequent circumstances had a strong unreflective
 evaluative tendency to experience the killing of offspring that were not his own
-as ‘‘demanded by the circumstances,’’ and so that females, in turn, experienced
-no strong unreflective tendency to ‘‘hold it against’’ a male when he killed her
+as “demanded by the circumstances,” and so that females, in turn, experienced no
+strong unreflective tendency to ‘‘hold it against’’ a male when he killed her
 offspring in such circumstances, on the contrary becoming receptive to his
-advances soon afterwards. Or imagine that we had evolved more along the lines of
-our close primate relatives the bonobos, so that we experienced sexual relations
-with all kinds of different partners as ‘‘called for’’ in all kinds of different
-circumstances. Finally, imagine that we had evolved more on the model of the
-social insects, perhaps possessing overwhelmingly strong unreflective evaluative
-tendencies in the direction of devoting ourselves to the welfare of the entire
-community, and only the weakest tendency to look out for our own individual
-survival, being unreflectively inclined to view that survival as ‘‘good’’ only
-insofar as it was of some use to the larger community.” 120-121
-    - the pool of possible moral judgements dwarfs the pool of true moral
-      judgements by orders of magnitude
-  - just as picking randomly from a jar is unlikely to produce a red marble when
-    reds are outnumbered 1000 to 1
-  - so too is it unlikely that that a randomly constituted moral psychology
-    would point to true beliefs
-  - we are left with the conclusion: it is unlikely that our moral psychology
-    points to true beliefs
-- this isn’t yet a denial of realism
-  - to do that we need to (at the very least) show how this entails that we’re
-    unjustified in believing moral claims
-  - but by now that doesn’t seem so hard
-- my goal for the remainder of this paper is to consider what I take to be the
-  most plausible arguments against the negative realist
-  - while all plausible I claim that none is ultimately successful
-  - hence, I say that there is no dilemma for the negative realist
-- the arguments are
-our dispositions probably point to false beliefs, we follow our dispositions, so
-we probably have false beliefs
-it would be a huge coincidence if evolution guided us to the right beliefs;
-there are no such coincidences 
-moral psychology is ultimately the only evidence anyone has for morality; this
-shows us our evidence is no good
-we’d think as we do even if the claims were false; hence, our process is
-unreliable
+advances soon afterwards. 120
+Just as picking randomly from a jar is unlikely to produce a red marble when
+reds are outnumbered 1000 to 1, so too is it unlikely that that a randomly
+constituted moral psychology would point to true beliefs. We are thus left with
+the following conclusion: it is unlikely that our moral psychology points to
+true beliefs.
+  Things are starting to look grim for the negative realist. Fortunately,
+nothing that has been said formally contradicts his/her position. To do that
+Street would need to (at the very least) to show how what has been said entails
+that we’re unjustified in believing moral claims. Perhaps at this point that
+doesn’t seem to be so hard. My goal for the remainder of this paper is to
+consider what I take to be the most plausible arguments against the negative
+realist. While all are plausible, I claim that none is ultimately successful.
+Hence, I say that the negative realist has escaped the dilemma. In brief, the
+arguments are as follows:
+Our dispositions probably point to false beliefs, we follow our dispositions, so
+we probably have false beliefs.
+It would be a huge coincidence if evolution guided us to the right beliefs;
+there are no such coincidences.
+Moral psychology is ultimately the only evidence anyone has for morality; this
+shows us our only evidence is no good.
+We’d think as we do even if the claims were false; hence, our process is
+unreliable.
+I will address each of these arguments in turn.
 
 5.0 The Argument from Probability
 - it is very unlikely that our moral dispositions are dispositions to true
