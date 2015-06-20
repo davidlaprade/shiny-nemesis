@@ -199,110 +199,22 @@ insofar as it was of some use to the larger community.” 120-121
 - this isn’t yet a denial of realism
   - to do that we need to (at the very least) show how this entails that we’re
     unjustified in believing moral claims
+  - but by now that doesn’t seem so hard
 - my goal for the remainder of this paper is to consider what I take to be the
   most plausible arguments against the negative realist
-  - none of them, I claim, is successful
+  - while all plausible I claim that none is ultimately successful
   - hence, I say that there is no dilemma for the negative realist
 - the arguments are
 our dispositions probably point to false beliefs, we follow our dispositions, so
 we probably have false beliefs
 it would be a huge coincidence if evolution guided us to the right beliefs;
 there are no such coincidences 
-the corruption of our dispositions shows that we are biased; biases require
-increased epistemic caution; no such caution has been observed
+moral psychology is ultimately the only evidence anyone has for morality; this
+shows us our evidence is no good
 we’d think as we do even if the claims were false; hence, our process is
 unreliable
 
-
-
-- Street’s paper has generated a great deal of criticism
-  - citations…
-- none of this criticism has taken the line that Street’s argument is invalid
-- Street claims to have shown that moral realism is inconsistent with natural
-  science
-- taken at face value, her main conclusion does not follow from her main
-  argument: there is a gap
-- I here examine the three most obvious ways of filling that gap
-- each of which in turn succumbs to a gap of its own
-- I conclude that Street’s case is ultimately invalid
-0.1. Roadmap
-- lay out Street’s argument as she presents it
-- explain why there is a logical gap between her argument and her main
-  conclusion
-- lay out the three most obvious ways of closing the gap
-- draw a distinction between intrinsic and extrinsic probability
-- draw a distinction between explanations and reasons
-- show that the most obvious ways of closing the gap run afoul of these
-  distinctions
-
-1. Street’s Argument
-- officially, Street’s argument takes the following form
-Our moral dispositions are evolved.
-If they are evolved, then they were either selected for directly or indirectly.
-They were not selected for indirectly.
-Hence, our moral dispositions were selected for directly. [1, 2, 3]
-If they were selected for directly, then it is very unlikely that they are
-veridical.
-Hence, it is very unlikely that our moral dispositions are dispositions to true
-beliefs. [from 5, 6]
-
-Our moral dispositions are evolved.
-If they are evolved, then they were either selected for directly or indirectly.
-Hence, our moral dispositions were selected for directly or indirectly [from 1,
-2]
-They were not selected for directly.
-Hence, our moral dispositions were selected for indirectly. [from 3, 4]
-If they were selected for indirectly, then it is very unlikely that they are
-veridical.
-Hence, it is very unlikely that our moral dispositions are dispositions to true
-beliefs. [from 5, 6]
-1.1. Motivations
-- motivate each of Street’s premises
-- conclusion: her main argument is sound
-
-2. A Gap and Three Bridges
-2.0. Gap
-- step back: what does Street intend to show as her main conclusion?
-  - MAIN CONCLUSION:
-- Realism about value is false, i.e. there are no mind-/language-independent
-  values in the world, and/or we don’t know about them
-  - SUB CONCLUSION: 
-- it is very unlikely that our moral dispositions are dispositions to true
-  beliefs
-- in fairness to Street, let’s say that her argument is successful if it can
-  show that realism is probably false
-  - even then, this is a different claim than the conclusion of her main
-    argument
-    - realism says nothing about the probability of moral claims, nor about our
-      dispositions
-- moral dispositions don’t seem to have anything to do with whether or not there
-  are mind- and language-independent values in the world
-- nor do they seem to have anything to do with evidential justification
-  - furthermore, there is no formal contradiction in holding SUB & ~MAIN to be
-    true
-  - what then is the connection between these claims?
-  - this might seem to be an uninterestingly critical, nit-picky point to make
-- it seems the jump from her argument’s conclusion to the main conclusion is
-  sufficiently obvious
-- Street has already done all of the hard work for us; she can’t be blamed for
-  leaving out this small, obvious step
-- anyone who can’t see the connection is being deliberately obtuse
-- there are three obvious ways to fill this gap
-our dispositions probably point to false beliefs, we follow our dispositions, so
-we probably have false beliefs
-it would be a huge coincidence if evolution guided us to the right beliefs;
-there are no such coincidences 
-the corruption of our dispositions shows that we are biased; biases require
-increased epistemic caution; no such caution has been observed
-we’d think as we do even if the claims were false; hence, our process is
-unreliable
-- each of these connecting arguments will turn out to be invalid
-- I think the nit-picky point is ultimately right
-- despite initial appearances, a compelling bridge for this gap is not
-  forthcoming
-- all of the most promising ways of filling in the argument themselves fall
-  victim to gaps of their own
-2.1.0. The Argument from Probability
+5.0 The Argument from Probability
 - it is very unlikely that our moral dispositions are dispositions to true
   beliefs
 - most of our moral beliefs correspond to our moral dispositions
@@ -326,7 +238,8 @@ then we are left with the implausible skeptical conclusion that our evaluative
 judgements are in all likelihood mostly off track, for our system of evaluative
 judgements is revealed to be utterly saturated and contaminated with
 illegitimate influence. 122
-2.1.1. Probable Given the Evidence
+
+5.1 Probable Given the Evidence
 - the probability of an event is always relative to a pool of evidence
   - probabilities are almost never stagnant
   - when that pool of evidence changes, so too does the probability
@@ -385,7 +298,8 @@ P(A|B) = 0.1 x 0.3 / 0.05 = .6
   - just as it would be a mistake for the weather channel to stop at base rates
     in its predictions of future weather events it would be a mistake for us to
 stop at the base rate in our calculations of the events we’re interested in
-2.1.2 The First Argument Reconsidered
+
+5.2 The First Argument Reconsidered
 - here’s the argument again
 - it is very unlikely that our moral dispositions are dispositions to true
   beliefs
@@ -443,7 +357,8 @@ stop at the base rate in our calculations of the events we’re interested in
     base rates for final rates
   - this is the further gap that besets the first way of closing the gap between
     Street’s sub conclusion and main conclusion
-2.2.0. The Argument from Best Explanation
+
+6.0 The Argument from Best Explanation
 - the argument is:
 - it is very unlikely that our moral dispositions are dispositions to true
   beliefs
@@ -465,7 +380,7 @@ a fluke of luck that’s not only extremely unlikely, in view of the huge univer
 of logically possible evaluative judgements and truths, but also astoundingly
 convenient to the realist. Barring such a coincidence, the only conclusion
 remaining is that many or most of our evaluative judgements are off track. 122
-2.2.1. Improbability and Mechanism
+6.1 Improbability and Mechanism
 - consider a routine lottery drawing
   - I go to buy a PowerBall ticket and have the number generated randomly
 - tomorrow comes and a number is drawn: it’s my number!
@@ -528,7 +443,8 @@ remaining is that many or most of our evaluative judgements are off track. 122
   - but it is not a coincidence: it does not demand a mechanism
   - mechanisms seem to be demanded only when the causal facts seem to render
     something unlikely
-2.2.2 Against the Argument from Best Explanation
+
+6.2 Against the Argument from Best Explanation
 - suppose the realist bites the bullet here and just says we got lucky
 - which of the above stories does the evolution of morality (according to
   Street) more closely resemble?
@@ -647,7 +563,7 @@ green, e = mc2 look like a complicated view, ordinary claims look outlandish
 - I think that 1 is true and 2 is false, on grounds of the objectivity of
   evidence
 
-2.4.0. The Argument from Evidence
+8.0 The Argument from Evidence
 we believe our moral claims only because of our dispositions
 our dispositions are as good as random
 hence, our process is unreliable
@@ -673,200 +589,3 @@ X believes that p just because of y Hence, X's belief that p is unjustified
 examples
 Inferences of this form are invalid because there is a difference between
 rational justification and the best explanation of belief
-
-
-
-Street's Main Conclusion
-Her conclusion: "Contemporary realist theories of value [are . . .]
-[in]compatible with natural science"
-strictly speaking, this is different from the conclusion of her main argument
-but with two supplemental premises, it's easy to see the connection (S1) if
-accepted claims in natural science (in particular: biology) are true, then we
-don't have knowledge of value (from the conclusion of the main argument)
-(S2) if we don't have knowledge of value, then realism about value isn't true
-------------- (MC) Hence, if accepted claims in natural science are true, then
-realism about value is false
-In other words, natural science is incompatible with realism
-
-The Conclusion of Street's Main Argument Does Not Entail Her Supplemental
-Premise
-If our moral dispositions are evolved, then it is very unlikely that our moral
-dispositions are dispositions to true beliefs Hence, natural science entails
-that we don't have a knowledge of value
-
-this is invalid
-possible:
-Jack's moral dispositions are the result of evolution by natural selection and
-it is very unlikely that they point to true propositions
-however, his dispositions are no part of what he takes as evidence for the moral
-claims that he believes
-as it happens, Jack's moral beliefs are true and, because his evidence was good
-enough, constitute knowledge
-in this case, the premises are all true and the conclusion is false -reply:
-- we already know Street is assuming that we believe ethical claims **just
-  because** of our dispositions
-- does this allow her to derive the supplemental premise she needs?
-adding the premise that we (everyone?) believe ethical claims just because of
-our dispositions turns this into an instance of the genetic fallacy
-the best explanation of our beliefs aside, we should be asking: what is the
-evidence?
-Street herself seems to admit this elsewhere: "If the causal process that gave
-rise to one’s belief that P is such that (as far as one knows) there is no
-reason to think that it would lead one to form true beliefs about the subject
-Smither in question—and if (as far as one knows) there is no other good reason
-to believe that P—then one should suspend belief that P" (from David's article)
-
-Extreme Epistemic Caution
-Street has a way out:
-if evidential relations themselves depend up on the constitution of our
-psychology or on our phenomenology, and we've just shown that our phenomenology
-has been altered by evolution to favor value claims, then shouldn't there be a
-kind of extreme epistemic caution required to justify these claims?
-she then just has to show that moral claims lack the additional epistemic
-backing to conclude that they do not constitute knowledge
-this seems like a plausible way to reply
-suppose you're prone to a certain optical illusion, e.g. that black and blue
-dresses look white and gold to you
-normally, when you form beliefs about the color of clothes you move quickly from
-how things appear to you to beliefs about their colors
-but this time your friend Molly has asked you--at the last minute, on the
-morning of her wedding--to pick out a veil for her
-only thing: the veil has to be white and gold--those are the colors of her dress
-so you rush to the wedding store and look through the veils
-you find one that looks white and gold, and are about to buy it
-but would you be justified in buying it? Do you have good enough evidence to buy
-it?
-It would seem that, though most people in such a circumstance would have enough
-evidence, you do not
-Because of what you know about how your phenomenology is misleading, an extra
-stringent epistemological standard applies
-
-Intrinsic vs. Extrinsic Probability
-
-Evolution of Belief vs Evolution of Feelings
-
-beliefs cannot evolve
-tendencies to believe can evolve, where one has a tendency to believe that p iff
-it's psychologically easy to believe that p (i.e. believing p reduces stress,
-reduces anxiety, increases pleasure, is intriniscally desireable)
-Evidence for Morality
-
-no ethicists draw moral conclusions from their moral dispositions
-our moral dispositions are a mess
-instead, they offer evidence
-Kantians point to satisfaction of (various formulations of) the categorical
-imperative
-Consequentialists point to causal relations between actions and other events
-etc
-
-Objection: Dispositions are Our Only Grip on Morality
-
-the various ethical positions are the result of trying to bring our moral
-dispositions into reflective equilibrium with one another
-so saying that ethicists of those stripes are providing evidence is premature:
-they think they have evidence only because they are one step removed from the
-problem
-
-
-Moral Dispositions vs Moral Intuitions
-
-the two are not the same
-many (perhaps most) of my moral intuitions disagree with my moral dispositions
-arguably I (and everyone else) is disposed to regard members of out groups as
-morally suspicious
-cite psychology study
-moral intuitions can conflict with moral dispositions
-Either society, or genetics, or some combination, has left me (and most people)
-with the disposition to regard the work of women as less valuable than that of
-men
-This notwithstanding, I have the moral intuition that there is no difference in
-value between such work
-And it is the intuition that I agree with
-sometimes the conflict is won by the disposition
-Probably we all have dispositions to regard members of out-groups as morally
-suspicious
-Consider homosexuals: a politically salient out-group
-One very good explanation of why homosexuals have been mistreated is that most
-people have dispositions to regard their behavior as morally suspicious
-But most peoples' moral intuition says otherwise
-Here again, the intuition is what seems to drive belief/judgement for most
-people
-But consider Catholics: it's not unlikely to think that there are many Catholics
-for whom: (a) they have the disposition to regard homosexuals as morally
-suspicious (because they are members of an out-group) (b) they have the
-intuition that there is nothing morally problematic about homosexual acts, and
-yet (c) their moral judgement aligns with their disposition, not their intuition
-Reply to the Objection
-
-moral dispositions are not our only grip on morality: we also have moral
-intuition
-the two are not the same, nor is it obvious that/how they are related
-[but what about the "core" cases Street brings up? Peter Singer and speciesism
-to the rescue?]
-it's far from obvious that "having the moral intuition that p" is capable of
-biological heritance, and thus evolutionary selection
-people's intuitions change over time, and in unpredictable ways
-it's not clear that if we could pick out the neurological correlates to every
-instance of what we'd describe as an "intuition" that there would be anything
-common to them
-ethicists seem to formulate their criteria of goodness/badness based on moral
-intuition, not disposition
-Objection: Ethicists do not Provide Evidence, they Provide examples of
-conclusions already drawn
-
-basically: ethicists are concerned with what constitutes goodness, not what is
-evidence for it
-reply: granted, but that doesn't mean that they don't/can't bolster evidence for
-their claims on the basis of their beliefs about what consistutes goodness
-a similar case:
-we disagree over whether Elvis is depicted on the TV
-if you and I agree that distribution of pixels D constitutes an Elvis depiction,
-then evidence for the claim that Elvis is depicted certainly could include
-evidence that D was present on the screen
-
-2.2.1. Intrinsic vs Extrinsic Probability
-- consider two cases
-  - LAZY JIM
-    - Lazy Jim is lazy. He just about never empties the dishwasher after running
-      it.
-    - In the last 1000 times he has run the dishwasher he has emptied it only
-      twice
-    - Suppose all of this is true and that Jim has just run the dishwasher
-    - The following is thus improbable: Jim will empty the dishwasher after it
-      runs
-    - if we were betting on it, we should bet against his emptying it
-  - HURT JIM
-    - Hurt Jim is not lazy. He just about always empties the dishwasher after
-      running it.
-    - In the last 1000 times he has run the dishwasher he has emptied it 998
-      times
-    - Suppose all of this is true and that Jim has just run the dishwasher
-- but shortly thereafter he falls and breaks both his arms
-    - The following is thus improbable: Jim will empty the dishwasher after it
-      runs
-    - if we were betting on it, we should bet against his emptying it
-  - in LAZY and HURT JIM, the same event is improbable
-- but it is improbable for very different reasons
-- in LAZY it is improbable simply in virtue of the distribution of prior events
-  - here the improbability is extrinsic to the event
-- it gets its probability by “looking outward”, deriving it from other events of
-  the same kind
-- in HURT it is improbable in virtue of causal facts about the event itself
-  - constituents of the event tend to prevent each other from happening
-  - here the improbability is intrinsic to the event
-- it gets its probability by “looking inward”, deriving it from the way it
-  itself is
-- these are two different kinds of probability
-  - an event can be intrinsically probable while being extrinsically improbable
-    - e.g. Jim will go to the hospital after running the dishwasher
-  - an event can be intrinsically improbable while being extrinsically probable
-    - e.g. Jim will empty the dishwasher after it runs
-- I won’t attempt much by way of analysis of these kinds of probability
-  - it seems obvious that we use both all the time
-  - it also seems obvious that they are distinct
-- but it is important to point out the relationship these kinds of probability
-  bear to explanation
-  - theories which endorse intrinsically improbable events warrant explanation
-  - theories which endorse extrinsically improbable events do not warrant
-    explanation
-  - ex. use the lottery example from your email to yourself
