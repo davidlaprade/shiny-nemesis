@@ -125,88 +125,130 @@ try to undercut the epistemic grounds for moral realism, it seems better to keep
 the focus on the trait that is actually relevant to the epistemology of
 morality.
 
-3. A Darwinian Dilemma?
-  - our moral psychology is an evolved trait
-    - evidence from broad cultural agreement
-    - evidence from similarities with other animals
-- “Like us, individual chimpanzees seem to experience  at some basic
-  motivational level  actions that would promote their survival or help their
-offspring as in some way ‘‘called for.’’ More strikingly, and again at some
-basic motivational level, chimpanzees seem to experience the fact that another
-chimpanzee has helped them, whether by sharing food, grooming them, or
-supporting their position within the group hierarchy, as ‘‘counting in favor
-of’’ assisting that other individual in similar ways.” 117
-    - the best explanation of these facts is that the trait is evolved
-  - if it is evolved, then it was selected for directly or indirectly
-    - direct vs indirect selection
-- There are two and only two ways for any given trait to evolve: either it can
-  be selected for directly or it can be selected for indirectly. A trait is
+§3. A Darwinian Dilemma?
+  Street’s “Darwinian Dilemma” begins with the claim that our moral psychology
+is an evolved trait. As she puts it:
+[N]atural selection has had a tremendous direct influence on what I have called
+our more basic evaluative tendencies[.] 120
+There are two parts to the argument for this claim. The first involves
+demonstrating that moral psychology is in fact a trait -- i.e. a feature (or
+phenotype) of an organism capable of being passed down from parent to offspring
+by the transfer of genetic material. Street does not say much to justify this
+claim except to point to the emerging field of evolutionary psychology.
+“According to [evolutionary psychology], human cognitive traits are (in some
+cases) just as susceptible to Darwinian explanation as human physical traits are
+(in some cases).” (113) But we actually already saw an argument in the last
+section for this view anyway. Our moral psychology is presumably completely
+determined by our brains, and our brains are coded for by our genes. So, on the
+face of it, it seems obvious that our moral psychology should be a heritable
+trait.
+The second part of the argument is an inference to the best explanation. Street
+presents evidence that (she claims) is best explained by admitting that moral
+psychology has actually been subject to evolutionary forces. There are two such
+pieces of evidence. The first is the broad agreement we see in the moral
+psychologies of people living in different times, cultures, and socio-economic
+levels. It would seem that there is a kind of core set of moral feelings that
+almost everyone has. For example:
+The fact that something would promote one’s survival is a reason in favor of it.
+The fact that something would promote the interests of a family member is a
+reason to do it. 
+We have greater obligations to help our own children than we do to help complete
+strangers. 
+The fact that someone has treated one well is a reason to treat that person well
+in return. 
+The fact that someone is altruistic is a reason to admire, praise, and reward
+him or her. 
+The fact that someone has done one deliberate harm is a reason to shun that
+person or seek his or her punishment. 115
+(1)-(6) feel right to most people, and their denials feel wrong. In view of the
+sheer number of moral beliefs that one could possibly have moral feelings about,
+it is amazing that so diverse a set of human beings -- subject to varying
+circumstances and cultural norms -- would yet agree on all of these points. But
+this is easily explained by the hypothesis that moral psychology was subject to
+evolutionary forces. For, if there was one among many competing moral
+psychologies that made a big difference in the fitness of its bearers (all else
+being equal), then it’s reasonable to think that such a trait would have swept
+to fixation in the human population. And in that case, we’d see the kind of
+continuity amongst otherwise disparate subjects that we do.
+  The second piece of evidence is the continuity we observe of our moral
+psychology in nature. Street puts the point well:
+Like us, individual chimpanzees seem to experience -- at some basic motivational
+level -- actions that would promote their survival or help their offspring as in
+some way “called for.” More strikingly, and again at some basic motivational
+level, chimpanzees seem to experience the fact that another chimpanzee has
+helped them, whether by sharing food, grooming them, or supporting their
+position within the group hierarchy, as “counting in favor of” assisting that
+other individual in similar ways. 117
+This continuity is likewise easily explained in evolutionary terms. Evolution by
+natural selection is a slow, incremental process. Many small changes are made
+over a very long time. Hence, we expect to see the kind of continuity of
+phenotypes -- some “more developed” than others -- amongst species with common
+ancestors. Some of the species will (for environmental reasons) have accumulated
+more small changes than other species with respect to a trait. This then is an
+elegant explanation of this surprising continuity. Hence, moral psychology is an
+evolved trait.
+  Given, then, that our moral psychology appears to be an evolved trait we can
+ask a further question: how was it selected? There are two and only two ways for
+a trait to evolve. It can be selected for directly or indirectly. A trait is
 selected for iff organisms with that trait are fitter (have a greater propensity
 to leave offspring) than those without the trait, all else being equal.
 Selection is then direct iff the trait itself is the cause of the fitness
-increase, and indirect otherwise. (cite waters)
-  - it wasn’t selected for indirectly
-    - she settles this one from the armchair
--  [N]ote the [enormous] costs and benefits, as measured in the Darwinian
-   currency of reproductive success, of accepting some evaluative judgements
-rather than others. It is clear, for instance, how fatal to reproductive success
-it would be to judge that the fact that something would endanger one’s survival
-is a reason to do it, or that the fact that someone is kin is a reason to harm
-that individual. A creature who accepted such evaluative judgements would run
-itself off cliffs, seek out its predators, and assail its offspring, resulting
-in the speedy elimination of it and its evaluative tendencies from the world .
-114
-    - objection:
-- it’s not the judging that’s fatal, its the acting upon
-- so here the phenomenology is really piggy backing on the tendency to act a
-  certain way
-- in a way she almost admits this in admitting that the acting tendencies
-  probably came before the judgments
-“Behavioral and motivational tendencies in the direction of at least some of the
-pairings of circumstance and response on this list presumably arose and became
-entrenched in our ancestors long before the rise of any capacity for
-full-fledged evaluative judgement” 118
-    - objection 2:
-      - this is armchair biology and the great trap of adaptationism
-      - anything can seem an adaptation if one’s imagination is good enough
-      - and likewise anything can seem maladaptive with the right insights
-        - plausibly ancient man could have had confused beliefs about who his
-          kin were, about what promoted his survival, etc.
-        - it might have actually been to his disadvantage to follow such
-          “tendencies”
-      - the point: things are only adaptive relative to environments
-      - and what we are being given no information about is what the state of
-        ancient man’s environment was like
-      - so if we’re really going to be taking our biology seriously, we
-        shouldn’t be taking this line of argument seriously
-    - for these two reasons, this claim is poorly defended
-  - this actually isn’t going to matter
-    - officially, I propose we drop it from her statement from the problem
-    - all Street needs to get her argument off the ground is that it was an
-      evolved trait
-- she states her Dilemma as a matter of declaring a relationship
-“The basic problem for realism is that it needs to take a position on what
+increase, and indirect otherwise. Street contends that the evolution of our
+moral psychology was due to direct selection. Moral psychology seems like it
+would have been the cause of huge fitness advantages/disadvantages. She says:
+It is clear, for instance, how fatal to reproductive success it would be to
+judge that the fact that something would endanger one’s survival is a reason to
+do it, or that the fact that someone is kin is a reason to harm that individual.
+A creature who accepted such evaluative judgements would run itself off cliffs,
+seek out its predators, and assail its offspring, resulting in the speedy
+elimination of it and its evaluative tendencies from the world . 114
+I actually find this line of thinking unconvincing. In part this is because
+merely judging that “endanger[ing] one’s survival is a reason” to do something
+couldn’t possibly have the effects she suggests. Merely thinking about reasons
+doesn’t affect fitness. What would have the effects on fitness would be actually
+doing the thing that endangers one’s survival. So in this case the selection on
+moral psychology actually appears to be indirect. On the other hand, it’s hard
+to find armchair biology very convincing -- especially when it’s about what
+traits count as adaptations (i.e. that are fitness enhancing). One of the great
+traps of armchair biology is that anything can be made to seem an adaptation if
+one’s imagination is good enough. And likewise anything can seem maladaptive in
+the right light. For example, it’s plausible that ancient man had false beliefs
+about who his kin were and about what would promote his survival. Suppose it was
+common amongst ancient members of our species to believe that draining one’s
+blood was a good way to eliminate impurities and thus promote survival (as we
+know it was for some time). Someone who judged that something’s promoting
+survival was a reason to do it might well cut themselves and bleed out. How then
+would this person pass on his/her moral psychology? Answer: he/she wouldn’t. So
+how do we know that direct selection of our moral psychology wasn’t thwarted by
+false beliefs in just this way? How do we know that it didn’t evolve indirectly
+by piggy-backing on some other trait? In short: we don’t. Not from what Street
+has given us. 
+  So how did moral psychology evolve? I actually think that as far as Street’s
+argument is concerned it doesn’t matter. It’s an unnecessary flash point. Hence,
+I propose we officially drop it from her statement of the problem. We’ll see
+that all she needs to get her argument off the ground is that moral psychology
+is an evolved trait.
+  We are now in a position to state the dilemma. Street states her dilemma as a
+matter of declaring a relationship:
+The basic problem for realism is that it needs to take a position on what
 relation there is, if any, between the selective forces that have influenced the
 content of our evaluative judgements, on the one hand, and the independent
-evaluative truths that realism posits, on the other.” 121
-- this is unclear: what is she asking the realist to provide? -- a relation?
-- The way most philosophers use the word “relation” only objects--only
-  things--bear relations to one another.
-- (Schaffer citation, relations require relata)
-- But forces and truths aren’t objects.
-- So, unless she has some idiosyncratic meaning of “relation” in mind, what is
-  she talking about?
-- this is one of the ways in which Street’s argument generates unnecessary chaff
-- I think she wants the realist to answer the following question:
-  - did the truthmakers of moral claims affect the way our moral psychology
-    evolved-- and if so, how?
-- the dilemma is thus the following:
-- either the truthmakers of moral claims affected the way our moral psychology
-  evolved or they didn’t
-- no matter which the the realist chooses, he/she seems to be in trouble
-- the argument for this final premise is a somewhat tortured shotgun blast
--it’s a let’s-prove-it-by-examining-every-possibility-we-can-think-of argument
-  - so I will not rehearse it here
+evaluative truths that realism posits, on the other. 121
+I find this unclear and unhelpful. It’s not obvious what she is demanding the
+realist provide. She says she wants “a relation”. But the way most philosophers
+use the word “relation” only objects -- only things (horses, houses, electrons,
+etc.) -- bear relations to one another. (Schaffer citation, relations require
+relata) But forces and truths -- what Street is demanding a relation for --
+aren’t objects. And actually I’m not really sure what categories they even
+belong in. This is another unnecessary flash point. I think all she wants the
+realist to answer is this: did the truthmakers of moral claims affect the way
+our moral psychology evolved -- and if so, how? The dilemma thus has two horns:
+either the truthmakers of moral claims affected the way our moral psychology
+evolved or they didn’t. Either way, Street will claim, the realist is in
+trouble. The argument for this final premise is a somewhat tortured shotgun
+blast -- a let’s-prove-it-by-examining-every-possibility-we-can-think-of
+argument. So I will not rehearse it here. Instead, I am going to take up just
+the part that applies to the horn that I intend to take.
 
 4. The Negative View
 - the solution I propose is to embrace the negative view: that the truthmakers
