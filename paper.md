@@ -4,8 +4,37 @@
 - then I show how even this strengthened version fails to rationally discredit a
   certain form of realism
 
-1. Introduction
-
+§1. Introduction
+  Most people believe that scientific claims are true. They get into airplanes,
+drive in cars, rely on GPS’s, take medications, and undergo genetic testing.
+They do these things because they believe the science behind these inventions.
+  Most people believe that ethical claims are true. They vote their consciences,
+read op-ed columns, argue with relatives, end friendships, and punish
+wrongdoers. They do these things because they believe the ethics behind them.
+  Prima facie, there is no contradiction in this. People believe in science and
+they believe in ethics. Each has its place in their lives, and each influences
+their lives greatly. But as beliefs in disparate domains of knowledge, our
+beliefs about science and ethics seem to have little to no bearing on one
+another.
+  Sharon Street (2006) thinks this is wrong. She thinks that moral realism --
+the view that there are mind- and language- independent moral facts -- is at
+odds with evolution by natural selection. On her view, what biologists say about
+the science of evolution means that what the ethicists say about goodness and
+badness is wrong.
+  Street’s argument for this conclusion is simple. Our moral dispositions are an
+evolved trait. So, if there are moral facts, then they either influenced the
+evolution of this trait or they did not. Unfortunately, neither of these options
+is acceptable. Hence, there are no moral facts.
+  If Street is right, then we have to give up either science or ethics. Either
+way, the results for the way we live our lives are catastrophic.
+Fortunately, Street is not right. I here defend the view that moral facts did
+not influence the evolution of our moral dispositions. I claim that Street’s
+arguments do not render this position unacceptable to the realist. I begin in §2
+by dealing with some preliminaries. What is moral realism? What is moral
+psychology? Then, in §3 I clarify and motivate Street’s case against the
+realist. In §4 I elaborate upon the view that I take to avoid Street’s
+criticism. Then, in §5-§8 I defend the view against her criticism. The result is
+a way of dodging Street’s “Darwinian Dilemma”.
 
  2. Preliminaries
   - moral intuitions/phenomenology
