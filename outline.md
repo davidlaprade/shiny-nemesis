@@ -1,4 +1,220 @@
-0. Introduction
+0. Abstract
+- Street has painted with broad strokes
+  - there are many places to take issue
+- I clarify her case and attempt to strengthen it
+- then I show how even on a strengthened account the dilemma may be avoided
+
+1. Introduction
+
+ 2. Preliminaries
+  - moral intuitions/phenomenology
+    - we have a moral psychology
+    - we have moral feelings
+    - Street talks about “tendencies” and “dispositions”; this is unhelpful and
+      unclear
+      - she wants to contaminate the epistemic base for our moral beliefs
+      - but no one bases their beliefs on their tendencies
+      - “Oh ah, I see that I tend to act to promote the lives of my children,
+        hence that’s good.”
+      - what is a tendency anyway? a distribution of probabilities? genes code
+        for probabilities?
+      - it seems clearer to say that genes code for biological structures
+        (though even that isn’t totally straightforward --citations!)
+      - since our moral psychology (presumably) exists in virtue of biological
+        structures, this is easy to grasp
+  - moral beliefs
+    - we seem to have genuine moral beliefs
+    - they are genuinely apt bearers of truth values
+    - these beliefs seem to often (if not always) be motivated by these feelings
+- Moral Realism
+- “The defining claim of realism about value [. . .] is that there are at least
+  some evaluative facts or truths that hold independently of all our evaluative
+attitudes.” 110
+- “that hold independently of …” --what is that supposed to mean?
+  - the notion of dependence she has in mind is presumably that of grounding
+    (citations!!!)
+    - examples of grounding: the tv and the image, the statue and the clay
+- the defining claim of realism is this: that moral claims are true/false in
+  virtue of mind- and language- independent reality
+  - why she must have meant something (partially) epistemic
+    - almost no one (who makes these kinds of distinctions) thinks our moral
+      beliefs hold in virtue of our moral psychology
+    - at most, they are using our psychology as evidence
+    - similarly: no one thinks our beliefs about electrons are true in virtue of
+      the readings on our instruments
+    - rather, they are true in virtue of the way electrons actually are!
+    - if the machines and particle accelerators were all destroyed, our beliefs
+      would still be true
+    - what Street intends to undermine--or should intend to undermine--is the
+      evidence for moral beliefs
+  - thus we get that realism = moral beliefs are true/false in virtue of mind-
+    and language- independent reality, and that at least some of them constitute
+knowledge
+
+3. A Darwinian Dilemma?
+  - our moral psychology is an evolved trait
+    - evidence from broad cultural agreement
+    - evidence from similarities with other animals
+- “Like us, individual chimpanzees seem to experience  at some basic
+  motivational level  actions that would promote their survival or help their
+offspring as in some way ‘‘called for.’’ More strikingly, and again at some
+basic motivational level, chimpanzees seem to experience the fact that another
+chimpanzee has helped them, whether by sharing food, grooming them, or
+supporting their position within the group hierarchy, as ‘‘counting in favor
+of’’ assisting that other individual in similar ways.” 117
+    - the best explanation of these facts is that the trait is evolved
+  - if it is evolved, then it was selected for directly or indirectly
+    - direct vs indirect selection
+      - you can pull this bit from the objects paper
+  - it wasn’t selected for indirectly
+    - she settles this one from the armchair
+-  [N]ote the [enormous] costs and benefits, as measured in the Darwinian
+   currency of reproductive success, of accepting some evaluative judgements
+rather than others. It is clear, for instance, how fatal to reproductive success
+it would be to judge that the fact that something would endanger one’s survival
+is a reason to do it, or that the fact that someone is kin is a reason to harm
+that individual. A creature who accepted such evaluative judgements would run
+itself off cliffs, seek out its predators, and assail its offspring, resulting
+in the speedy elimination of it and its evaluative tendencies from the world .
+114
+    - objection:
+- it’s not the judging that’s fatal, its the acting upon
+- so here the phenomenology is really piggy backing on the tendency to act a
+  certain way
+- in a way she almost admits this in admitting that the acting tendencies
+  probably came before the judgments
+“Behavioral and motivational tendencies in the direction of at least some of the
+pairings of circumstance and response on this list presumably arose and became
+entrenched in our ancestors long before the rise of any capacity for
+full-fledged evaluative judgement” 118
+    - objection 2:
+      - this is armchair biology and the great trap of adaptationism
+      - anything can seem an adaptation if one’s imagination is good enough
+      - and likewise anything can seem maladaptive with the right insights
+        - plausibly ancient man could have had confused beliefs about who his
+          kin were, about what promoted his survival, etc.
+        - it might have actually been to his disadvantage to follow such
+          “tendencies”
+      - the point: things are only adaptive relative to environments
+      - and what we are being given no information about is what the state of
+        ancient man’s environment was like
+      - so if we’re really going to be taking our biology seriously, we
+        shouldn’t be taking this line of argument seriously
+    - for these two reasons, this claim is poorly defended
+  - I actually don’t think it matters whether moral psychology was selected for
+    directly or indirectly
+    - either way, the genesis of our moral psychology was due to a certain trait
+      increasing fitness
+      - whether that trait is moral psychology itself, or our having hair on our
+        heads, it doesn’t matter
+      - the issue remains that increased fitness is neutral with respect to
+        moral truth
+
+    - this is a needless detail that I think Street can’t really justify anyway
+    - officially, I propose we drop it from her statement from the problem
+    - all Street needs to get her argument off the ground is that it was an
+      evolved trait
+    - to see this, we should clarify Street’s statement of her “dilemma”
+- she states it as a matter of declaring a relationship
+“The basic problem for realism is that it needs to take a position on what
+relation there is, if any, between the selective forces that have influenced the
+content of our evaluative judgements, on the one hand, and the independent
+evaluative truths that realism posits, on the other.” 121
+- this is unclear: what is she asking the realist to provide? -- a relation?
+- The way most philosophers use the word “relation” only objects--only
+  things--bear relations to one another.
+- (Schaffer citation, relations require relata)
+- But forces and truths aren’t objects.
+- So, unless she has some idiosyncratic meaning of “relation” in mind, what is
+  she talking about?
+- I think she wants the realist to answer the following question:
+  - did the truthmakers of moral claims affect the way our moral psychology
+    evolved? if so, how?
+- the dilemma is thus the following:
+- either the truthmakers of moral claims affected the way our moral psychology
+  evolved or they didn’t
+- no matter which the the realist chooses, he/she seems to be in trouble
+- the argument for this final premise is a somewhat tortured shotgun blast
+-it’s a let’s-prove-it-by-examining-every-possibility-we-can-think-of argument
+  - so I will not rehearse it here
+
+4. The Negative View
+- the solution I propose is to embrace the negative view: that the truthmakers
+  of moral claims did not affect the way our moral psychology evolved
+  - call a moral realist that adopts such a view a negative realist
+  - the negative realist says that moral psychology would have evolved as it did
+    whether or not moral claims were true
+  - moral psychology did not evolve as it did in any way because of the
+    truthmakers of moral claims
+- I think this view is plausible for independent reasons
+  - moral properties would seem to not have causal properties
+  - if they did, we could just detect them scientifically; we can’t, so they
+    don’t
+  - but if they lack causal properties, then they can’t have affected
+    evolutionary processes one way or the other
+  - QeD
+- we can also see that by taking the negative view, it doesn’t matter whether
+  moral psychology was selected for directly or indirectly
+  - either way, on this view the genesis of our moral psychology was unaffected
+    by the truthmakers of moral claims
+  - hence, the forces which determined the constitution of our moral psychology
+    were random with respect to the truth of moral claims
+  - similarly: the forces which shaped the grand canyon were random with respect
+    to its beauty
+    - if some bit of moral psychology happens to be veridical, this is by random
+      chance
+    - if the Grand Canyon happens to be beautiful (as it does), this was by
+      random chance
+- this solution comes with baggage
+  - the forces which determined the constitution of our moral psychology were
+    random with respect to the truth of moral claims
+  - random picking is fine when doing so from a pool of mostly good choices
+  - unfortunately there was no such friendly pool from which evolution randomly
+    chose our moral psychology
+  - one important point that Street makes is to stress the range of possible
+    moral beliefs
+“Imagine, for instance, that we had evolved more along the lines of lions, so
+that males in relatively frequent circumstances had a strong unreflective
+evaluative tendency to experience the killing of offspring that were not his own
+as ‘‘demanded by the circumstances,’’ and so that females, in turn, experienced
+no strong unreflective tendency to ‘‘hold it against’’ a male when he killed her
+offspring in such circumstances, on the contrary becoming receptive to his
+advances soon afterwards. Or imagine that we had evolved more along the lines of
+our close primate relatives the bonobos, so that we experienced sexual relations
+with all kinds of different partners as ‘‘called for’’ in all kinds of different
+circumstances. Finally, imagine that we had evolved more on the model of the
+social insects, perhaps possessing overwhelmingly strong unreflective evaluative
+tendencies in the direction of devoting ourselves to the welfare of the entire
+community, and only the weakest tendency to look out for our own individual
+survival, being unreflectively inclined to view that survival as ‘‘good’’ only
+insofar as it was of some use to the larger community.” 120-121
+    - the pool of possible moral judgements dwarfs the pool of true moral
+      judgements by orders of magnitude
+  - just as picking randomly from a jar is unlikely to produce a red marble when
+    reds are outnumbered 1000 to 1
+  - so too is it unlikely that that a randomly constituted moral psychology
+    would point to true beliefs
+  - we are left with the conclusion: it is unlikely that our moral psychology
+    points to true beliefs
+- this isn’t yet a denial of realism
+  - to do that we need to (at the very least) show how this entails that we’re
+    unjustified in believing moral claims
+- my goal for the remainder of this paper is to consider what I take to be the
+  most plausible arguments against the negative realist
+  - none of them, I claim, is successful
+  - hence, I say that there is no dilemma for the negative realist
+- the arguments are
+our dispositions probably point to false beliefs, we follow our dispositions, so
+we probably have false beliefs
+it would be a huge coincidence if evolution guided us to the right beliefs;
+there are no such coincidences 
+the corruption of our dispositions shows that we are biased; biases require
+increased epistemic caution; no such caution has been observed
+we’d think as we do even if the claims were false; hence, our process is
+unreliable
+
+
+
 - Street’s paper has generated a great deal of criticism
   - citations…
 - none of this criticism has taken the line that Street’s argument is invalid
@@ -354,8 +570,8 @@ phenomenology has been altered by evolution to favor value claims, then
 shouldn't there be a kind of extreme epistemic caution required to justify these
 claims?
 - argument
-- it is very unlikely that our moral dispositions are dispositions to true a
-  liefs
+- it is very unlikely that our moral dispositions are dispositions to true
+  beliefs
 - hence, we’re biased with respect to our evaluation of moral judgments
 - if we’re biased, then extra epistemic care must be taken for us to be
   justified in our judgements
@@ -375,7 +591,7 @@ claims?
 - you find one that looks white and gold, and are about to buy it
 - but would you be justified in buying it given that you are disposed to this
   illusion?
-- Do you have good enough evidence to- henct? Would people understand if you
+- Do you have good enough evidence to buy it? Would people understand if you
   bought it and were wrong?
 - It would seem that, though most people in such a circumstance would have
   enough evidence, you do not
@@ -385,16 +601,16 @@ claims?
 - we would seem to be in a similar predicament if Street is correct
   - we all have dispositions that are as reliable as picking randomly from a
     large pool of bad choices
-  - shouldn’t an extra stringent episy thing: the veil has to be white and
-    gold--those are the colors of her dress
-- so you rush to the localen dress
-- so you rush to the local Dress Barn and look through the hea o are about to
-  buy it
-- but would you be justified in buying it given that you are disposed to this
-  illusion?
-- Do you ide disposed to this illusion?
-- Do you have good enough evidence to- henct? Woubsh evidence to- henct? Would
-  people understand if yoemost people in such a r case
+  - shouldn’t an extra stringent epistemological standard apply to us too? -- it
+    seems so
+- but do we see anything approaching extra care taken in the evaluation of moral
+  beliefs? -- it seems not
+  - what are some of the marks of careful epistemological practices?
+  - open-mindedly considering all possible alternatives
+- weighing evidence for and against
+- careful definition of terminology; eschewing jargon
+- abstaining from adopting a view until well after it seems one has made his/her
+  case
   - do we see these kinds of things amongst either ordinary people or trained
     ethicists?
 - answer: no
@@ -415,8 +631,8 @@ evidential relations
 - Subjective = ~ Objective
 - evidence is objective
   - my saying this is based on the belief that what we know about the world
-    would not be unmade if something was put in the water to make reds lookn
-reen, e = mc2 look like a complicated view, ordinary claims look outlandish
+    would not be unmade if something was put in the water to make reds look
+green, e = mc2 look like a complicated view, ordinary claims look outlandish
   - the evidential base (even if we no longer are capable of having the
     phenomenology again) remains sturdy
   - we should remain convinced of our view of the world
