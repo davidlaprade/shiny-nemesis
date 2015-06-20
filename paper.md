@@ -36,50 +36,94 @@ realist. In §4 I elaborate upon the view that I take to avoid Street’s
 criticism. Then, in §5-§8 I defend the view against her criticism. The result is
 a way of dodging Street’s “Darwinian Dilemma”.
 
- 2. Preliminaries
-  - moral intuitions/phenomenology
-    - we have a moral psychology
-    - we have moral feelings
-    - Street talks about “tendencies” and “dispositions”; this is unhelpful and
-      unclear
-      - she wants to contaminate the epistemic base for our moral beliefs
-      - but no one bases their beliefs on their tendencies
-      - “Oh ah, I see that I tend to act to promote the lives of my children,
-        hence that’s good.”
-      - what is a tendency anyway? a distribution of probabilities? genes code
-        for probabilities?
-      - it seems clearer to say that genes code for biological structures
-        (though even that isn’t totally straightforward -- genes citations!)
-      - since our moral psychology (presumably) exists in virtue of biological
-        structures, this is easy to grasp
-  - moral beliefs
-    - we seem to have genuine moral beliefs
-    - they are genuinely apt bearers of truth values
-    - these beliefs seem to often (if not always) be motivated by these feelings
-- Moral Realism
-- “The defining claim of realism about value [. . .] is that there are at least
-  some evaluative facts or truths that hold independently of all our evaluative
-attitudes.” 110
-- “that hold independently of …” --what is that supposed to mean?
-  - the notion of dependence she has in mind is presumably that of grounding
-    (citations!!!)
-    - examples of grounding: the tv and the image, the statue and the clay
-- the defining claim of realism is this: that moral claims are true/false in
-  virtue of mind- and language- independent reality
-  - why she must have meant something (partially) epistemic
-    - almost no one (who makes these kinds of distinctions) thinks our moral
-      beliefs hold in virtue of our moral psychology
-    - at most, they are using our psychology as evidence
-    - similarly: no one thinks our beliefs about electrons are true in virtue of
-      the readings on our instruments
-    - rather, they are true in virtue of the way electrons actually are!
-    - if the machines and particle accelerators were all destroyed, our beliefs
-      would still be true
-    - what Street intends to undermine--or should intend to undermine--is the
-      evidence for moral beliefs
-  - thus we get that realism = moral beliefs are true/false in virtue of mind-
-    and language- independent reality, and that at least some of them constitute
-knowledge
+§2. Preliminaries
+  To be able to fairly evaluate the case that Street has made against moral
+realism, some terminology should first be explained.
+  Begin with with moral psychology. It seems true to say that there is a way it
+feels to consider a bad action, and likewise for a good one. Bad actions present
+themselves a certain way to us--they feel a certain way. The thought of rape,
+for example, produces a certain kind of moral feeling. The thought of
+deliberately harming a child produces another. The thought of pushing a fat man
+off of a bridge to stop a runaway trolley still another. These feelings, while
+different, are very similar -- similar enough that we take them to be instances
+of the same kind. By our “moral psychology” or “moral phenomenology”, then, let
+us have in mind these feelings.
+  Contrast our moral psychology with our moral beliefs. We believe that rape is
+wrong. We believe that deliberately harming children is wrong. And (some of us)
+believe that pushing people off of bridges to stop trolleys is wrong. These are
+matters about which we can, and often do, disagree with others. They are things
+we seem capable of being mistaken over. They are things that might be true and
+that might be false. The same cannot be said of our moral psychology. One cannot
+disagree with another person over one’s moral psychology. One’s moral feelings
+cannot be mistaken. The way one feels cannot be true.
+  Despite the differences between moral psychology and moral belief, the two are
+clearly related to one another. Moral psychology is very often used as evidence
+(if only tacitly) for moral beliefs. Many people believe that rape is wrong
+because of what it’s like to consider rape, that deliberately harming children
+is wrong because of what it’s like to imagine harming children, and so on. At
+the very least, the best explanation of why many people hold the moral beliefs
+that they do is that they have the moral psychology that they do. This point
+will come up again.
+  Moral realism is the conjunction of two claims: (i) that some of our moral
+beliefs are true solely in virtue of mind- and language- independent reality,
+and (ii) that those beliefs constitute knowledge. Let’s unpack this. Consider a
+belief like “the Grand Canyon is pretty”. If this belief is true, what is it
+true in virtue of? In part it is true in virtue of the physical makeup of the
+Grand Canyon: it’s size, its shape, its color, the way the light hits it. It is
+also true (in part) because of how human beings feel. It is pleasurable for most
+human beings to look at the Grand Canyon. It gives them goose bumps. Thus, “The
+Grand Canyon is pretty” has two different truthmakers: the way the Grand Canyon
+is, and the way human beings feel. For this reason, this belief is not true
+solely in virtue of mind- and language-independent reality. It is not what some
+would call “an objective fact”. It is “subjective”. Contrast this belief with a
+belief like “Obama became president in 2008”. What is the truthmaker for this
+claim? -- that a certain man was elected in the United States on a given year.
+And that is the only truthmaker for the claim. Notice that the content of human
+beings’ minds is no part of what makes this claim true. Hence, we would say that
+this claim is true solely in virtue of mind- and language- independent reality.
+It is an objective fact. The moral realist, then, simply says that moral beliefs
+are more like the belief about Obama than the belief about the Grand Canyon. The
+content of human minds is no part of what makes them true. They are not mere
+expressions of feeling. They are objective, not subjective.
+  Street’s statement of moral realism is slightly different:
+The defining claim of realism about value [. . .] is that there are at least
+some evaluative facts or truths that hold independently of all our evaluative
+attitudes. 110
+Note that she doesn’t include anything about our knowing about said values in
+her statement of realism. I think this was a mistake for two reasons. The first
+is purely semantic: it conflicts with the way that people typically use the word
+“realist”. Suppose I said that I was a scientific realist. I hold that
+scientific claims are objective: true solely in virtue of the way mind- and
+language- independent reality is. But I also claim that no one has any
+scientific knowledge whatsoever. Think you know about electrons? False. Think
+you know anything about the external world? False. It seems that if I said these
+things, I couldn’t properly be described as a scientific realist. One must admit
+that we have at least some knowledge about D in order to count as a realist
+about D. The second reason is specific to Street. The statement of moral realism
+that she provides is a metaphysical claim: it’s a claim about what
+metaphysically makes (or grounds) the truth of moral claims. But the arguments
+that she runs are irrelevant to the metaphysics of morals. What they seem
+relevant to is the epistemology of morals. Hence, I think it best to broaden the
+target of Street’s attack. It will make her argument more plausible.
+  Last point before moving on. Street does not talk about moral psychology.
+Instead, she talks about moral  “tendencies” (citations) and “dispositions”
+(citations). I think this too is unhelpful for two reasons. First, Street is
+going to be making an evolutionary argument. Evolutionary arguments depend on
+our ability to claim that certain traits are heritable, i.e. able to be passed
+down, by genetics, from one generation to another. But tendencies and
+dispositions -- whatever they are -- aren’t obviously traits coded for by genes.
+Hence, they aren’t obviously heritable. Our moral psychology, in contrast, is
+pretty straightforwardly a result of the biological structure of our brains. And
+our brains certainly are coded for by our genes. So by talking about moral
+psychology, we sidestep this potential concern and keep the conversation
+squarely focused on a heritable trait. Second, almost no one uses their moral
+tendencies and dispositions as evidence for their moral views. “I see that I
+have the tendency to act to promote the lives of my children. That must be a
+good thing to do.” No one reasons in this way. But people do genuinely reason
+from the moral feelings that they have. And, since Street’s argument is going to
+try to undercut the epistemic grounds for moral realism, it seems better to keep
+the focus on the trait that is actually relevant to the epistemology of
+morality.
 
 3. A Darwinian Dilemma?
   - our moral psychology is an evolved trait
