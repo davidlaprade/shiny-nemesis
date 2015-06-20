@@ -20,7 +20,7 @@
       - what is a tendency anyway? a distribution of probabilities? genes code
         for probabilities?
       - it seems clearer to say that genes code for biological structures
-        (though even that isn’t totally straightforward --citations!)
+        (though even that isn’t totally straightforward -- genes citations!)
       - since our moral psychology (presumably) exists in virtue of biological
         structures, this is easy to grasp
   - moral beliefs
@@ -477,66 +477,115 @@ coincidence (something requiring explanation to be justifiably believed)
   - it is thus the further hole in this manner of patching Street’s case
 
 7.0 No Epistemic Base
-  - moral theorizing seems to rely on our moral psychology for all of its
-    evidence
+  - moral psychology is the sole source of evidence for moral claims
   - if the negative realist is right, then that evidence is bad evidence
   - hence, there is no good evidence for moral claims
   - hence, moral claims are unjustified
   - hence they don’t constitute knowledge
   - hence realism is wrong
 - quote from Street
-- The objection gains its plausibility by suggesting that rational reflection
-  provides some means of standing apart from our evaluative judgements, sorting
-through them, and gradually separating out the true ones from the false -- as if
-with the aid of some uncontaminated tool. But this picture cannot be right. For
-what rational reflection about evaluative matters involves, inescapably, is
-assessing some evaluative judgements in terms of others. Rational reflection
-must always proceed from some evaluative standpoint; it must work from some
-evaluative premises; it must treat some evaluative judgements as fixed, if only
-for the time being, as the assessment of other evaluative judgements is
-undertaken. In rational reflection, one does not stand completely apart from
-one’s starting fund of evaluative judgements: rather, one uses them, reasons in
-terms of them, holds some of them up for examination in light of others. The
-widespread consensus that the method of reflective equilibrium, broadly
-understood, is our sole means of proceeding in ethics is an acknowledgment of
+- The widespread consensus that the method of reflective equilibrium, broadly
+  understood, is our sole means of proceeding in ethics is an acknowledgment of
 this fact: ultimately, we can test our evaluative judgements only by testing
 their consistency with our other evaluative judgements, combined of course with
 judgements about the (non-evaluative) facts. 124
+
 7.1 Reply
 the first premise has to be what’s wrong here
-basically: ethicists are concerned with what constitutes goodness, not what is
-evidence for it
-reply: granted, but that doesn't mean that they don't/can't bolster evidence for
-their claims on the basis of their beliefs about what consistutes goodness
-a similar case:
-we disagree over whether Elvis is depicted on the TV
-if you and I agree that distribution of pixels D constitutes an Elvis depiction,
-then evidence for the claim that Elvis is depicted certainly could include
-evidence that D was present on the screen
+it seems that it’s far from being a consensus view that “reflective equilibrium
+[. . .] is our sole means of proceeding in ethics”
+Kantians: evidence comes from the categorical imperatives
+Utilitarians: evidence is evidence of pain/pleasure
+Aristotelians: evidence for virtue is what the virtuous man does
+Natural Goodness: good is just what promotes flourishing (cite Phillippa Foot)
+Cornell Realists: evidence is high-level claims about flourishing (cite Brink)
+Searle-style approaches
+reply: this misses the point, these things only constitute evidence because a
+general metaethical view has already been adopted (e.g. that such-and-such
+constitutes goodness)
+but the only evidence for this kind of view is moral psychology
+so this just pushes the problem back
+on its face, this claim is incredible--and surely the kind of thing that
+requires further argument
+a huge amount of ink has been spilt for thousands of years attempting to give
+such metaethical claims independent justification
+to dismiss that literature out of hand would seem crazy
+the burden of proof is on Street’s end here
+this is a burden she hasn’t met
 
-8.0 The Argument from Evidence
+8.0 Explanation of Belief
+there is one further argument lingering Street’s paper
+"[H]ad the general content of our basic evaluative tendencies been very
+different, then the general content of our full-fledged evaluative judgements
+would also have been very different" (120) "Imagine, for instance, that we had
+evolved more along the lines of lions, so that males in relatively frequent
+circumstances had a strong unreflective evaluative tendency to experience the
+killing of offspring that were not his own as ‘‘demanded by the circumstances,’’
+[. . .] in these and other such cases our system of full-fledged, reflective
+evaluative judgements would have looked very different as well, and in ways that
+loosely reflected the basic evaluative tendencies in question." (120-121)
+it’s hard to see why she thinks this, if not because she thinks that we believe
+moral claims only because of our dispositions
+the best explanation of our beliefs is our moral psychology
+you can prop ethics up on whatever intellectual stilts you desire; it won’t
+change this fact
+argument:
 we believe our moral claims only because of our dispositions
 our dispositions are as good as random
-hence, our process is unreliable
-knowledge is (at the very least) true belief formed by a reliable process
 hence, we lack knowledge of moral claims
 hence, realism is false
 
-two complaints here:
-first, this doesn’t bridge the gap; this is a new argument all together
-second, the jump from 1,2 to 3 conflates reasons with explanations
-we may well have a reliable process and yet the best explanation is something
-else
-
-our only source of evidence for our moral beliefs are our dispositions; this
-shows that our only source of evidence is no good
-
-Reasons vs. Explanations
+8.1 Reasons vs. Explanations
 There is a difference between a person's reasons for believing that p--i.e.
 one's rational justification--and the best explanation of his/her believing that
 p--i.e. what actually accounts for his/her belief.
-The Genetic Fallacy
-X believes that p just because of y Hence, X's belief that p is unjustified
-examples
-Inferences of this form are invalid because there is a difference between
-rational justification and the best explanation of belief
+Consider Smith. Smith is a registered member of the Green Party. He registered
+for the party because he was impressed by Ralph Nader's prudence, intelligence,
+and philanthropy--all of which he witnessed first hand while visiting his uncle
+(suppose). Upon induction into the Green Party, however, Smith was brainwashed
+to believe that Nader is the best presidential candidate. As a result, he cannot
+help but believe it to be the case.
+It seems true to say that Smith has reasons for believing that Nader is the best
+candidate. He has observed Nader first hand, and has seen that he is prudent,
+intelligent, and generous. These observations surely count as reasons--albeit
+defeasible reasons--that Nader is the best candidate for the job. Nevertheless,
+these reasons are not the explanation of Smith's belief. The explanation is the
+brainwashing. That alone is sufficient for Smith to believe as he does.
+Contrast Smith with Jones. Jones believes that human beings never landed on the
+moon. She believes this because she has done extensive research on the
+conspiracy theory--on the pictures supposedly taken on the moon, on the magnetic
+fields between it and the earth, about the frailty of the human body in space,
+etc.--and has found it all very compelling. In this case, the explanation of
+Jones' belief is her reasons: the defeasible (and perhaps defeated) evidence she
+has for it. The evidence is what makes her believe as she does.
+
+8.2 The Genetic Fallacy
+Consider inferences of the following form:
+(1) P believes that q only because of E.
+--------------------
+(2) Hence, P's belief that q is unjustified.
+Here are some examples:
+Jim believes that abortion should be illegal only because he wants to control
+women.
+--------
+Hence, Jim's belief is unjustified.
+
+Jan believes that global climate change is real only because she is a Democrat.
+-------
+Hence, Jan's belief is unjustified.
+
+Francine believes that babies are fun only because she is a woman.
+-------
+Hence, Francine's belief is unjustified.
+These inferences are as common as they are tempting, but they are all invalid.
+They are examples of what's called the Genetic Fallacy, schematized above. That
+schema is fallacious because it is possible for all of its premises to be true
+while its conclusions are false. The fact that a person's belief can be
+explained tells us nothing about the rational justification (if any) for his/her
+view. To think otherwise, it seems, is to conflate reasons with explanations.
+
+8.3 Reply
+This argument is simply fallacious. It’s an example of the genetic fallacy
+
+9.0 Conclusion
+Street has not shown that there is any dilemma for moral realism
