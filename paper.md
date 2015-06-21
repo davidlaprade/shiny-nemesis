@@ -425,127 +425,101 @@ pool. But it seemed obvious in Smith’s case that he should not doubt his
 mathematical beliefs just because of this. So too, then, for us and our moral
 beliefs.
 
-
-6.0 The Argument from Best Explanation
-- the argument is:
-- it is very unlikely that our moral dispositions are dispositions to true
-  beliefs
-- most of our moral beliefs correspond to our moral dispositions
-- if (1) and (2) then it would be a remarkable coincidence if our moral beliefs
-  were true
-- coincidences require explanation in order for us to be justified in accepting
-  them
-- there is no good explanation of such a coincidence
-- hence, something has to be given up: the only plausible candidate is that our
-  beliefs are true
-- hence, our beliefs are not true: realism is false
-- textual evidence that this is what Street has in mind
-- Of course it’s possible that as a matter of sheer chance, some large portion
-  of our evaluative judgements ended up true, due to a happy coincidence between
-the realist’s independent evaluative truths and the evaluative directions in
-which natural selection tended to push us, but this would require a fluke of
-luck that’s not only extremely unlikely, in view of the huge universe of
-logically possible evaluative judgements and truths, but also astoundingly
+§6.0 The Argument from Coincidence
+  Street has another argument against the negative realist:
+Of course it’s possible that as a matter of sheer chance [that] some large
+portion of our evaluative judgements ended up true, due to a happy coincidence
+between the realist’s independent evaluative truths and the evaluative
+directions in which natural selection tended to push us, but this would require
+a fluke of luck that’s not only extremely unlikely, in view of the huge universe
+of logically possible evaluative judgements and truths, but also astoundingly
 convenient to the realist. Barring such a coincidence, the only conclusion
 remaining is that many or most of our evaluative judgements are off track. 122
-6.1 Improbability and Mechanism
-- consider a routine lottery drawing
-  - I go to buy a PowerBall ticket and have the number generated randomly
-- tomorrow comes and a number is drawn: it’s my number!
-- suppose someone told you this story and that you didn’t have a way of
-  verifying it’s truth
-- would you say:
-    - “really--your number was drawn?” (eyebrows raised with doubt)
-- “that’s a very big coincidence, don’t you think?”
-- “tell me then, if this really happened as you say, how did it happen?”
-- “how did that random machine manage to select exactly your random number just
-  when you wanted it to?”
-- would a mechanism be called for in such a case?
-- should you be skeptical about this story until one was provided?
-- it seems not: you’re claiming that the process was random and you just got
-  lucky
-- there is nothing to explain
-- skepticism in such a circumstance does not seem warranted
-  - this even despite the fact that the odds of picking a winning lottery number
-    are staggeringly low
-  - we just don’t need anyone to be able to explain how this happened in order
-    to accept that it did
-- consider a different story
-  - I just smashed your windshield ten minutes ago. Shattered it to pieces.
-  - But right after I just felt so bad. So I replaced it. If you go outside now
-    you’ll see it just as you left it
-- suppose someone told you this story and you didn’t have a way of verifying
-  it’s truth
-  - here I think you would say:
-    - “really--you replaced a windshield in just ten minutes?” (brow furrowed
-      with suspicion)
-    - “you just happened to have the right cut of glass for my make and model,
-      and the tools at the ready?”
-- “you cleaned up all that glass?”
-- “you managed to acquire new inspection stickers and parking passes to my golf
-  club?”
-- “tell me then, if this really happened as you say, how did it happen?”
-- “how did you manage to do all of this in so little time?”
-- here you really should be doubtful of the truth of the story until a mechanism
-  was provided
-- it would really seem like a giant coincidence if all of the conditions were so
-  as to make what you claim possible
-- so why does one story demand a mechanism and the other not?
-- both stories are improbable
-  - it is improbable that someone would win the lottery
-  - it is improbable that someone would repair a shattered windshield in 10
-    minutes
-- neither story can be independently verified
-- answer: we are assessing their probabilities from very different evidential
-  bases
-  - for the lottery: the evidential base is just the base rate
-- the number of possible winning combinations, and the fact that the drawing was
-  random
-  - for the windshield: the evidential base is not a base rate, but is rather a
-    large collection of general causal facts
-    - e.g. it takes time to find the right windshield for a car and clean up
-      glass and procure replacement parking passes
-- what we see:
-  - when something is picked randomly from a large number of possibilities (and
-    this is all we know about it) it is indeed improbable
-  - but it is not a coincidence: it does not demand a mechanism
-  - mechanisms seem to be demanded only when the causal facts seem to render
-    something unlikely
+Her reasoning seems to be as follows. If the negative realist is right, then a
+completely random, unreliable process just happened to identify all of the true
+moral beliefs. What a happy coincidence! Unfortunately, coincidences require
+explanation in order for us to be justified in accepting them. And there is no
+such explanation to be had here. The negative realist is in a poor way.
 
-6.2 Against the Argument from Best Explanation
-- suppose the realist bites the bullet here and just says we got lucky
-- which of the above stories does the evolution of morality (according to
-  Street) more closely resemble?
-  - the lottery, not the windshield
-- why?
-  - whatever traits our moral dispositions have been piggy-backing on are best
-    thought of as having no relation to the truth/falsity of moral claims
-    - so claims Street, anyway… quote??
-  - what ended up selecting our dispositions, in other words, was random with
-    respect to the truth/falsity of the moral claims it picked
-    - a moral claim’s being true did not cause it to be any more or less likely
-      to be chosen; ditto for being false
-  - so Street is claiming that if we follow our moral dispositions, it’s as good
-    as picking randomly
-  - but picking randomly is only risky if there are many bad choices in the
-    bunch: if the numbers are bad
-    - this is why she points out that there are many possible moral judgements
-      that our dispositions could have corresponded to
-    - (if the moral realist is to be taken at his/her word) the number of
-      possible moral judgements dwarfs the number of true moral judgements by
-orders of magnitude
-    - so again, the numbers are bad too
-- these are exactly the circumstances we had in the lottery case
-  - recall, the lottery case did not require a mechanism in order to be
-    plausible
-- so I deny the third premise here: if (1) and (2) then it would be a remarkable
-  coincidence if our moral beliefs were true
-  - there is no coincidence here
-- the problem with this way of bridging the gap is that it mistakenly assumes
-  that when the co-occurrence of an event pair is unlikely, it constitutes a
-coincidence (something requiring explanation to be justifiably believed)
-  - but this is not so
-  - it is thus the further hole in this manner of patching Street’s case
+§6.1 Improbability and Mechanism
+  The argument of §6.0 is among Street’s most compelling arguments against the
+negative realist. But I think it makes mistakes about the relationship between
+probability, coincidence, and mechanisms.
+To see this, consider a routine lottery drawing.
+LOTTERY
+I go to buy a PowerBall ticket. Tomorrow comes and a number is drawn: it’s my
+number! 
+Suppose someone told you this story and that you didn’t have a way of verifying
+its truth. Would you say: “Really -- your number was drawn?” (eyebrows raised
+with doubt). “That’s a very big coincidence, don’t you think? Tell me, then, if
+this really happened as you say, how did it happen? How did that random machine
+manage to select exactly your number just when you wanted it to?” Would a
+mechanism be called for in such a case? Should you be skeptical about the
+LOTTERY story until one was provided? It seems not: you’re claiming that the
+process was random and you just got lucky. There is nothing to explain, and
+skepticism in such a circumstance does not seem warranted. This even despite the
+fact that the odds of picking a winning lottery number are staggeringly low.
+Consider a different story.
+  WINDSHIELD
+I just smashed your windshield ten minutes ago. Shattered it to pieces. But
+right after I just felt so bad. So I replaced it. If you go outside now you’ll
+see it’s just as you left it
+Suppose someone told you this story and you didn’t have a way of verifying its
+truth. Here I think you would say: “Really -- you replaced a windshield in just
+ten minutes?” (Brow furrowed with suspicion.) “You just happened to have the
+right cut of glass for my make and model, and the tools besides? You cleaned up
+all that glass? You managed to acquire new inspection stickers and parking
+passes to my golf club and put them on the new windshield in the same place?
+Tell me then, if this really happened as you say, how did it happen? How did you
+manage to do all of this, and in so little time?” Here you really should be
+doubtful of the truth of the story until a mechanism was provided. It really
+would seem like a giant coincidence if all of the conditions were so as to make
+what you claim possible.
+Why does WINDSHIELD demand a mechanism while LOTTERY does not? Both stories are
+improbable. It is improbable that someone would win the lottery. It is
+improbable that someone would repair a shattered windshield in 10 minutes.
+Moreover, neither story can be independently verified.
+I think the important difference between these stories is that we are assessing
+their probabilities from very different evidential bases. For LOTTERY the
+evidential base is just the base rate: the number of possible winning
+combinations, and the fact that the drawing was random. For WINDSHIELD: the
+evidential base is not a base rate, but is rather a large collection of general
+causal facts, e.g. that it takes time to find the right windshield for a car and
+clean up glass and procure replacement parking passes, etc.
+The take-away message from all of this is the following: when something is
+picked randomly from a large number of possibilities (and this is all we know
+about it) it is indeed improbable. But it is not a coincidence: it does not
+demand a mechanism. Mechanisms seem to be demanded only when an event is
+rendered unlikely by the causal facts relevant to that event.
+
+§6.2 The Second Argument Reconsidered
+The negative realist is committed to the claim that we just got lucky: that much
+of our moral psychology just happens to point to true beliefs (the beliefs we
+have). Street is claiming that this is an implausible coincidence given the
+random manner in which our moral psychology evolved. Hence, it should not be
+believed.
+I want to press Street on whether or not the negative realist is in fact
+committed to an implausible coincidence. In the previous section we examined two
+stories (LOTTERY and WINDSHIELD) to dig deeper into the relationship between
+probability, coincidence, and mechanism. Which of those stories does the
+negative realist’s account more closely resemble? It seems LOTTERY, not
+WINDSHIELD. There are two reasons for this. First, the negative realist claims
+that our moral psychology was picked randomly, much as the lottery ticket was
+picked randomly. Second, the negative realist holds that what was picked
+randomly corresponds to what we picked by another process (our moral beliefs),
+much as the lottery ticket corresponds to the lottery number picked by another
+process. It’s not as if Street is claiming that the negative realist is guilty
+of endorsing a view that is causally inconsistent -- as WINDSHIELD seemed to be.
+If she were, then things would be different. But she isn’t, and it’s hard to see
+how she could be.
+Recall, then, that LOTTERY did not seem to describe an implausible coincidence:
+the kind of story which requires a mechanism in order for us to be justified in
+accepting it. Given, then, the marked similarities between LOTTERY and the
+negative realist’s claim, it would seem that the burden is on Street to
+demonstrate why these cases should be treated differently. Why does one describe
+an implausible coincidence but the other not? Baring such a demonstration, it
+seems that we should treat these cases the same and say that the negative
+realist is not in fact committed to an implausible coincidence.
 
 7.0 No Epistemic Base
   - moral psychology is the sole source of evidence for moral claims
