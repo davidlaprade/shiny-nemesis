@@ -566,14 +566,12 @@ doctrine. Consider the conclusion of a recent sustained examination of the
 method due to McGrath and Kelly:
 [I]n order to arrive at a defensible account [of reflective equilibrium], the
 proponent of the method should opt for a normative characterization of the
-starting point. Of course, once that move is made, one might very well wonder
-whether the picture of inquiry that emerges still deserves the name “the method
-of reflective equilibrium”.  For in that case, it is natural to think that the
-most interesting part of the story concerns not the pursuit of equilibrium
-itself, but rather what makes it the case that certain starting points are more
-reasonable than others, and how we manage to recognize or grasp such facts. In
-that sense at least, it seems that reflective equilibrium is not enough. (2010,
-p50)
+starting point. Of course, once that move is made, [. . .] it is natural to
+think that the most interesting part of the story concerns not the pursuit of
+equilibrium itself, but rather what makes it the case that certain starting
+points are more reasonable than others, and how we manage to recognize or grasp
+such facts. In that sense at least, it seems that reflective equilibrium is not
+enough. (2010, p50)
 Applied to the methodology of ethics, then, McGrath and Kelly would seem to
 admit that reflective equilibrium is only a defensible method of proceeding if
 there is already a way of justifying our starting point -- one which would not
