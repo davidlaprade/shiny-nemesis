@@ -521,42 +521,70 @@ an implausible coincidence but the other not? Baring such a demonstration, it
 seems that we should treat these cases the same and say that the negative
 realist is not in fact committed to an implausible coincidence.
 
-7.0 No Epistemic Base
-  - moral psychology is the sole source of evidence for moral claims
-  - if the negative realist is right, then that evidence is bad evidence
-  - hence, there is no good evidence for moral claims
-  - hence, moral claims are unjustified
-  - hence they don’t constitute knowledge
-  - hence realism is wrong
-- quote from Street
-- The widespread consensus that the method of reflective equilibrium, broadly
-  understood, is our sole means of proceeding in ethics is an acknowledgment of
+§7.0 No Epistemic Base
+  Recall what was said when the notion of a moral psychology was first
+introduced: people seem to often (if only tacitly) rely upon their moral
+psychology or phenomenology as the evidence for their moral beliefs. Street
+actually thinks this statement doesn’t go far enough:
+The widespread consensus that the method of reflective equilibrium, broadly
+understood, is our sole means of proceeding in ethics is an acknowledgment of
 this fact: ultimately, we can test our evaluative judgements only by testing
 their consistency with our other evaluative judgements, combined of course with
-judgements about the (non-evaluative) facts. 124
+judgements about the (non-evaluative) facts. [emphasis mine] 124
+The problem for the negative realist, then, is this. Moral psychology seems to
+be the sole source of evidence for moral claims. But if the negative realist is
+right, then moral psychology is extremely unreliable -- i.e. not a good source
+of evidence. Hence, it would seem that there is no good evidence for moral
+beliefs. Hence, moral beliefs are unjustified, they do not constitute knowledge,
+and realism is false.
 
-7.1 Reply
-the first premise has to be what’s wrong here
-it seems that it’s far from being a consensus view that “reflective equilibrium
-[. . .] is our sole means of proceeding in ethics”
-Kantians: evidence comes from the categorical imperatives
-Utilitarians: evidence is evidence of pain/pleasure
-Aristotelians: evidence for virtue is what the virtuous man does
-Natural Goodness: good is just what promotes flourishing (cite Phillippa Foot)
-Cornell Realists: evidence is high-level claims about flourishing (cite Brink)
-Searle-style approaches
-reply: this misses the point, these things only constitute evidence because a
-general metaethical view has already been adopted (e.g. that such-and-such
-constitutes goodness)
-but the only evidence for this kind of view is moral psychology
-so this just pushes the problem back
-on its face, this claim is incredible--and surely the kind of thing that
-requires further argument
-a huge amount of ink has been spilt for thousands of years attempting to give
-such metaethical claims independent justification
-to dismiss that literature out of hand would seem crazy
-the burden of proof is on Street’s end here
-this is a burden she hasn’t met
+§7.1 Reply
+  The negative realist’s reply has to be that moral psychology is not the sole
+source of evidence for moral claims. Fortunately for the negative realist, this
+claim is weakly defended. Street’s only argument on its behalf is to gesture at
+the “widespread consensus that the method of reflective equilibrium [. . .] is
+our sole means of proceeding in ethics”. She provides no evidence that there is
+such consensus, nor argument that such consensus would be justified if it
+existed, nor does she say anything about why such consensus would entail that
+there is no evidence for moral claims besides other moral claims. Hence, I say
+that this argument is weak.
+  Now, there is no question that some people believe as Street does. Consider
+Scanlon:
+[I]t seems to me that [reflective equilibrium], properly understood, is in fact
+the best way of making up one’s mind about moral matters and about many other
+subjects. Indeed, it is the only defensible method: apparent alternatives to it
+are illusory. (2002: 149)
+But this strong view is not without its detractors. A brief survey of the
+literature reveals Hare (1973), Singer (1974), Lyons (1975), Brandt (1979,
+1990), Copp (1985), Cummins (1998), and Stitch (1990) all in opposition to the
+doctrine. Consider the conclusion of a recent sustained examination of the
+method due to McGrath and Kelly:
+[I]n order to arrive at a defensible account [of reflective equilibrium], the
+proponent of the method should opt for a normative characterization of the
+starting point. Of course, once that move is made, one might very well wonder
+whether the picture of inquiry that emerges still deserves the name “the method
+of reflective equilibrium”.  For in that case, it is natural to think that the
+most interesting part of the story concerns not the pursuit of equilibrium
+itself, but rather what makes it the case that certain starting points are more
+reasonable than others, and how we manage to recognize or grasp such facts. In
+that sense at least, it seems that reflective equilibrium is not enough. (2010,
+p50)
+Applied to the methodology of ethics, then, McGrath and Kelly would seem to
+admit that reflective equilibrium is only a defensible method of proceeding if
+there is already a way of justifying our starting point -- one which would not
+just involve checking our moral views against each other.
+And all this is to say nothing of the history of philosophy. What of Kant who
+believed that reason was capable of teaching us right from wrong -- of
+identifying the categorical imperatives? (Metaphysics of Morals) What of
+Aristotle who believed that the best evidence of right action were the actions
+of the virtuous man? (Citation?) And what of the contemporary scholars who
+endorse either a Kantian or a virtue ethics? ( Citations?) Such figures all seem
+agreed upon the claim that there is evidence for moral beliefs besides our moral
+psychology. Surely if we were simply taking a survey, these philosophers should
+not be excluded.
+  Claims weakly defended are justifiably dismissed. Street’s among them. Baring
+better evidence, this argument should give the negative realist no cause for
+alarm.
 
 8.0 Explanation of Belief
 there is one further argument lingering Street’s paper
