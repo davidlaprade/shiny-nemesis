@@ -583,85 +583,14 @@ Aristotle who believed that the best evidence of right action were the actions
 of the virtuous man? (Citation?) And what of the contemporary scholars who
 endorse either a Kantian or a virtue ethics? ( Citations?) Such figures all seem
 agreed upon the claim that there is evidence for moral beliefs besides our moral
-psychology. Surely if we were simply taking a survey, these philosophers should
-not be excluded.
-  Claims weakly defended are justifiably dismissed. Street’s among them. Baring
-better evidence, this argument should give the negative realist no cause for
-alarm.
+psychology. Surely if survey were called for to adjudicate this position, such
+philosophers should not be excluded.
+  Claims weakly defended are justifiably dismissed -- Street’s among them.
+Baring better evidence, this argument should not give the negative realist
+pause.
 
-8.0 Explanation of Belief
-there is one further argument lingering Street’s paper
-"[H]ad the general content of our basic evaluative tendencies been very
-different, then the general content of our full-fledged evaluative judgements
-would also have been very different" (120) "Imagine, for instance, that we had
-evolved more along the lines of lions, so that males in relatively frequent
-circumstances had a strong unreflective evaluative tendency to experience the
-killing of offspring that were not his own as ‘‘demanded by the circumstances,’’
-[. . .] in these and other such cases our system of full-fledged, reflective
-evaluative judgements would have looked very different as well, and in ways that
-loosely reflected the basic evaluative tendencies in question." (120-121)
-it’s hard to see why she thinks this, if not because she thinks that we believe
-moral claims only because of our dispositions
-the best explanation of our beliefs is our moral psychology
-you can prop ethics up on whatever intellectual stilts you desire; it won’t
-change this fact
-argument:
-we believe our moral claims only because of our dispositions
-our dispositions are as good as random
-hence, we lack knowledge of moral claims
-hence, realism is false
-
-8.1 Reasons vs. Explanations
-There is a difference between a person's reasons for believing that p--i.e.
-one's rational justification--and the best explanation of his/her believing that
-p--i.e. what actually accounts for his/her belief.
-Consider Smith. Smith is a registered member of the Green Party. He registered
-for the party because he was impressed by Ralph Nader's prudence, intelligence,
-and philanthropy--all of which he witnessed first hand while visiting his uncle
-(suppose). Upon induction into the Green Party, however, Smith was brainwashed
-to believe that Nader is the best presidential candidate. As a result, he cannot
-help but believe it to be the case.
-It seems true to say that Smith has reasons for believing that Nader is the best
-candidate. He has observed Nader first hand, and has seen that he is prudent,
-intelligent, and generous. These observations surely count as reasons--albeit
-defeasible reasons--that Nader is the best candidate for the job. Nevertheless,
-these reasons are not the explanation of Smith's belief. The explanation is the
-brainwashing. That alone is sufficient for Smith to believe as he does.
-Contrast Smith with Jones. Jones believes that human beings never landed on the
-moon. She believes this because she has done extensive research on the
-conspiracy theory--on the pictures supposedly taken on the moon, on the magnetic
-fields between it and the earth, about the frailty of the human body in space,
-etc.--and has found it all very compelling. In this case, the explanation of
-Jones' belief is her reasons: the defeasible (and perhaps defeated) evidence she
-has for it. The evidence is what makes her believe as she does.
-
-8.2 The Genetic Fallacy
-Consider inferences of the following form:
-(1) P believes that q only because of E.
---------------------
-(2) Hence, P's belief that q is unjustified.
-Here are some examples:
-Jim believes that abortion should be illegal only because he wants to control
-women.
---------
-Hence, Jim's belief is unjustified.
-
-Jan believes that global climate change is real only because she is a Democrat.
--------
-Hence, Jan's belief is unjustified.
-
-Francine believes that babies are fun only because she is a woman.
--------
-Hence, Francine's belief is unjustified.
-These inferences are as common as they are tempting, but they are all invalid.
-They are examples of what's called the Genetic Fallacy, schematized above. That
-schema is fallacious because it is possible for all of its premises to be true
-while its conclusions are false. The fact that a person's belief can be
-explained tells us nothing about the rational justification (if any) for his/her
-view. To think otherwise, it seems, is to conflate reasons with explanations.
-
-8.3 Reply
-This argument is simply fallacious. It’s an example of the genetic fallacy
-
-9.0 Conclusion
-Street has not shown that there is any dilemma for moral realism
+§8. Conclusion
+  I conclude that the negative realist escapes Street’s so-called “Darwinian
+Dilemma” unscathed. At least so far as the arguments of her paper are concerned,
+it’s not obvious that moral realism runs afoul of evolutionary biology. These
+two domains may yet be mutually consistent.
