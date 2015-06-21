@@ -383,64 +383,48 @@ just as it would be a mistake for the weather channel to stop at base rates in
 its predictions of future weather events it would likewise be a mistake for us
 to stop at the base rate in our calculations of the events we’re interested in.
 
-5.2 The First Argument Reconsidered
-- here’s the argument again
-- it is very unlikely that our moral dispositions are dispositions to true
-  beliefs
-- most of our moral beliefs correspond to our moral dispositions
-- hence, probably most of our moral beliefs are false
-- if realism is true, then it’s not the case that probably most of our moral
-  beliefs are false
-- hence, realism is false
-- the problem with this first way of bridging the gap is that it ignores
-  whatever other evidence we might have for our moral beliefs
-- consider an analogous argument
-  - imagine a person, Smith, who believes only a few very basic mathematical
-    expressions: “2 + 3 = 5”, “9 - 1 = 8”, and “8 * 7 = 56”
-  - now imagine a computer picks random sentences out of the set of
-    syntactically correct, basic arithmetical sentences
-- suppose that the set of sentences it returns is identical to the set of
-  mathematical sentences Smith believes
-  - now, it is very unlikely that a computer picking randomly from this set will
-    produce a true sentence of mathematics
-  - the set of syntactically correct mathematical expressions is orders of
-    infinity larger than the set of true mathematical expressions
-  - should Smith thus doubt his mathematical beliefs?
-  - should he conclude that they are probably false?
-  - if this is all the evidence he had, then yes he should
-  - but this is not all of the evidence he has; indeed, it’s only just the base
-    rate
-- here, the problem is that we’re confusing the base rate for the final rate
-  - there’s a wider body of evidence to take into consideration when evaluating
-    the probability of a mathematical expression
-    - was the expression taught to us by a reliable source?
-    - are there any good proofs of the expression?
-    - can it be confirmed empirically, e.g. by counting fingers?
-  - to only take the base rate into account in evaluating the probability of the
-    view is to tacitly assume something that is false
-- namely: that the base rate takes into account all of the evidence we have one
-  way or the other for the view
-  - and in the case of mathematics the omission is so obvious that no one would
-    make this mistake
-- my claim is that this way of closing the gap is (in all important respects)
-  identical to the mathematical argument run above
-  - Street has succeeded in showing two things:
-    - that the pool of possible moral judgements dwarfs the pool of true moral
-      judgments (if any there are)
-    - our beliefs correspond to sentences picked by a random process from this
-      pool
-  - Note the similarity to Smith’s case
-    - the pool of possible mathematical judgements dwarfs the pool of true
-      mathematical judgments (if any there are)
-    - Smith’s beliefs correspond to sentences picked by a random process from
-      this pool
-  - but it seemed obvious in Smith’s case that he should not doubt his
-    mathematical beliefs just because of this
-  - so too, then for us and our moral beliefs
-  - to think otherwise is to be engaged in the weatherman’s fallacy of confusing
-    base rates for final rates
-  - this is the further gap that besets the first way of closing the gap between
-    Street’s sub conclusion and main conclusion
+§5.2 The First Argument Reconsidered
+Here’s the argument Street is directing at the negative realist: it is very
+unlikely that our moral dispositions are dispositions to true beliefs, and most
+of our moral beliefs correspond to our moral dispositions, so probably most of
+our moral beliefs are false. 
+The problem with this argument is that it ignores the fact that it is always
+possible for a random process to be identical in result to another process. When
+this happens, however, it does not follow that the latter had the same
+likelihood of success as the random process. Probability is relative to pools of
+evidence. And there’s no reason to suppose from the information given that each
+process had the same pool of evidence saying that it would return the given
+result.
+To see this, consider an analogous argument. Imagine a person, Smith, who
+believes only a few very basic mathematical expressions: “2+3=5”, “9-1=8”, and
+“8x7=56”. Now imagine that a computer picks three random sentences out of the
+set of syntactically correct, basic arithmetical sentences. Suppose it picks the
+three sentences Smith believes. Obviously, it is very unlikely that a computer
+picking randomly from such a set will produce only true sentences. The set of
+syntactically correct mathematical expressions is orders of infinity larger than
+the set of true mathematical expressions. And obviously it’s extremely unlikely
+that the computer will pick just the sentences that Smith believes.
+Nevertheless, it does.
+Suppose Smith is aware of this result. Should he doubt his mathematical beliefs
+because a computer picking randomly from a large pool of bad choices picked the
+same beliefs? Should he conclude that his beliefs have the same chances of being
+true as the computer? The answer is no -- not unless Smith picked his beliefs
+randomly like the computer. All Smith should be consulting in determining the
+probability of his beliefs is the evidence he has for those beliefs. Were they
+taught to him by a reliable source? Are there any good proofs for them? Can they
+be confirmed empirically, e.g. by counting fingers? If he does this, then the
+result from the computer is irrelevant.
+Street’s argument from probability is (in all important respects) identical to
+the mathematical argument run above. Street has succeeded in showing two things:
+that the pool of possible moral judgements dwarfs the pool of true moral
+judgments, and that our beliefs correspond to sentences picked by a random
+process from this pool. Note the similarity to Smith’s case: the pool of
+possible mathematical judgements dwarfs the pool of true mathematical judgments,
+and Smith’s beliefs correspond to sentences picked by a random process from this
+pool. But it seemed obvious in Smith’s case that he should not doubt his
+mathematical beliefs just because of this. So too, then, for us and our moral
+beliefs.
+
 
 6.0 The Argument from Best Explanation
 - the argument is:
