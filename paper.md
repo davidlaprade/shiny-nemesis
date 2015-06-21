@@ -317,8 +317,6 @@ It would be a huge coincidence if evolution guided us to the right beliefs;
 there are no such coincidences.
 Moral psychology is ultimately the only evidence anyone has for morality; this
 shows us our only evidence is no good.
-We’d think as we do even if the claims were false; hence, our process is
-unreliable.
 I will address each of these arguments in turn.
 
 §5.0 The Argument from Probability
