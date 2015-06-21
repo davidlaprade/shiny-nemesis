@@ -1,8 +1,11 @@
-0. Abstract
-- there is much to take issue with in Street’s “Darwinian Dilemma”
-- I first clarify her case, avoiding needless objections
-- then I show how even this strengthened version fails to rationally discredit a
-  certain form of realism
+
+
+§0. Abstract
+Sharon Street has declared that moral realism faces a “Darwinian Dilemma”: it is
+inconsistent with evolutionary biology. I here clarify Street’s argument for
+this conclusion, avoiding needless objections. Then I show how even this
+strengthened version fails to rationally discredit a version of realism on which
+the moral truths had no effect on the evolution of our moral psychology.
 
 §1. Introduction
   Most people believe that scientific claims are true. They get into airplanes,
