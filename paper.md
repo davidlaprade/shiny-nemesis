@@ -521,8 +521,8 @@ Recall, then, that LOTTERY did not seem to describe an implausible coincidence:
 the kind of story which requires a mechanism in order for us to be justified in
 accepting it. Given, then, the marked similarities between LOTTERY and the
 negative realist’s claim, it would seem that the burden is on Street to
-demonstrate why these cases should be treated differently. Why does one describe
-an implausible coincidence but the other not? Baring such a demonstration, it
+demonstrate why these cases should be treated differently. Why does one not
+describe a coincidence while the other does? Baring such a demonstration, it
 seems that we should treat these cases the same and say that the negative
 realist is not in fact committed to an implausible coincidence.
 
