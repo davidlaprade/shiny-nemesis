@@ -311,8 +311,8 @@ consider what I take to be the most plausible arguments against the negative
 realist. While all are plausible, I claim that none is ultimately successful.
 Hence, I say that the negative realist has escaped the dilemma. In brief, the
 arguments are as follows:
-Our dispositions probably point to false beliefs, we follow our dispositions, so
-we probably have false beliefs.
+Our moral psychology probably points to false beliefs, we follow our psychology,
+so we probably have false beliefs.
 It would be a huge coincidence if evolution guided us to the right beliefs;
 there are no such coincidences.
 Moral psychology is ultimately the only evidence anyone has for morality; this
@@ -324,11 +324,11 @@ I will address each of these arguments in turn.
 §5.0 The Argument from Probability
   It might seem as though the negative realist’s admission of randomness is all
 one needs to show that his/her position is defunct. For, if it is very unlikely
-that our moral dispositions are dispositions to true beliefs, and most of our
-moral beliefs correspond to our moral dispositions, then probably most of our
-moral beliefs are false. But if realism is true, then it’s not the case that
-probably most of our moral beliefs are false. Hence, realism is false. Street
-seems to have had this in mind when she said:
+that our moral psychology points to true beliefs, and most of our moral beliefs
+correspond to our moral psychology, then probably most of our moral beliefs are
+false. But if realism is true, then it’s not the case that probably most of our
+moral beliefs are false. Hence, realism is false. Street seems to have had this
+in mind when she said:
 If we [agree . . .] that our evaluative judgements have been tremendously shaped
 by Darwinian influence, then we are left with the implausible skeptical
 conclusion that our evaluative judgements are in all likelihood mostly off
@@ -388,9 +388,9 @@ to stop at the base rate in our calculations of the events we’re interested in
 
 §5.2 The First Argument Reconsidered
 Here’s the argument Street is directing at the negative realist: it is very
-unlikely that our moral dispositions are dispositions to true beliefs, and most
-of our moral beliefs correspond to our moral dispositions, so probably most of
-our moral beliefs are false. 
+unlikely that our moral psychology points to true beliefs, and most of our moral
+beliefs correspond to our moral psychology, so probably most of our moral
+beliefs are false. 
 The problem with this argument is that it ignores the fact that it is always
 possible for a random process to be identical in result to another process. When
 this happens, however, it does not follow that the latter had the same
