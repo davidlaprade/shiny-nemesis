@@ -318,73 +318,53 @@ We’d think as we do even if the claims were false; hence, our process is
 unreliable.
 I will address each of these arguments in turn.
 
-5.0 The Argument from Probability
-- it is very unlikely that our moral dispositions are dispositions to true
-  beliefs
-- most of our moral beliefs correspond to our moral dispositions
-- hence, probably most of our moral beliefs are false
-- if realism is true, then it’s not the case that probably most of our moral
-  beliefs are false
-- hence, realism is false
-- Street seems to have this in mind when she says:
-- [T]he forces of natural selection must be viewed as a purely distorting
-  influence on our evaluative judgements, having pushed us in evaluative
-directions that have nothing whatsoever to do with the evaluative truth. On this
-view, allowing our evaluative judgements to be shaped by evolutionary influences
-is analogous to setting out for Bermuda and letting the course of your boat be
-determined by the wind and tides: just as the push of the wind and tides on your
-boat has nothing to do with where you want to go, so the historical push of
-natural selection on the content of our evaluative judgements has nothing to do
-with evaluative truth. 121-122
-- If we take this point and combine it with the first premise that our
-  evaluative judgements have been tremendously shaped by Darwinian influence,
-then we are left with the implausible skeptical conclusion that our evaluative
-judgements are in all likelihood mostly off track, for our system of evaluative
-judgements is revealed to be utterly saturated and contaminated with
-illegitimate influence. 122
+§5.0 The Argument from Probability
+  It might seem as though the negative realist’s admission of randomness is all
+one needs to show that his/her position is defunct. For, if it is very unlikely
+that our moral dispositions are dispositions to true beliefs, and most of our
+moral beliefs correspond to our moral dispositions, then probably most of our
+moral beliefs are false. But if realism is true, then it’s not the case that
+probably most of our moral beliefs are false. Hence, realism is false. Street
+seems to have had this in mind when she said:
+If we [agree . . .] that our evaluative judgements have been tremendously shaped
+by Darwinian influence, then we are left with the implausible skeptical
+conclusion that our evaluative judgements are in all likelihood mostly off
+track, for our system of evaluative judgements is revealed to be utterly
+saturated and contaminated with illegitimate influence. [emphasis mine] 122
+What should the negative realist make of this?
 
-5.1 Probable Given the Evidence
-- the probability of an event is always relative to a pool of evidence
-  - probabilities are almost never stagnant
-  - when that pool of evidence changes, so too does the probability
-  - whether or not an event is going to happen is (presumably) fixed
-  - probabilities reflect the strength of evidence we have about what is going
-    to happen
-- the assessment of probability for an event always begins with its base rate
-  - the base rate R of an event type E = (df) the probability that any event of
-    type E will occur, calculated as the average probability of each prior
-instance
-  - one calculates the base rate knowing nothing about the particulars of E’s
-    instances
-  - it’s what you would calculate if all you knew were the rates of occurrence
-    of prior E type events
-  - example
-- suppose that in recorded history there have been 100,000 people who have
-  smoked at least a pack of cigarettes a day for 20 years
-    - suppose that among the 12,000 developed lung cancer
-    - taking nothing else into account, then, we can say that the base rate of
-      getting lung cancer for a person who smokes a pack a day for 20 years is
-12%
-- the base rate of an event reflects the probability of that event with respect
-  to a certain bare-minimum pool of evidence
-- suppose we are trying to figure out the probability that it will rain at a
-  certain place on a given day in June-- June 22nd
-  - suppose we are the weather channel
-  - say that reliable records have been kept about the weather at this place for
-    100 years
-  - say that 30 of such years were years in which it rained
-  - the base rate of its raining on June 22nd at this place is thus 30%
-  - now, June 20th arrives and our viewership wants to know the likelihood of
-    rain on the 22nd
-  - there is now additional evidence which we can bring to bear on this event
-    - we can see that there is a certain storm system at such-and-such a
-      position from this place
-    - suppose the base rate of there being this kind of storm at this location
-      on June 20th is 5%
-    - and suppose that 3 of the 30 years that it rained on the 22nd there was
-      such a storm at such a location
-  - using Bayes’ theorem, we can calculate a revised probability given the new
-    evidence we have
+§5.1 Probable Given the Evidence
+  I think that the solution to this problem is to insist that the probability of
+an event is always relative to a pool of evidence. Probabilities are almost
+never stagnant (quantum mechanics aside). When that pool of evidence changes, so
+too does the probability. That after all is what probability is: a way of
+quantifying the strength of evidence we have about what is going to happen.
+The assessment of probability for an event always begins with its base rate. The
+base rate R of an event type E = (df) the probability that any event of type E
+will occur, calculated as the average probability of each prior instance. One
+calculates the base rate knowing nothing about the particulars of E’s instances.
+The base rate is what you would calculate if all you knew were the rates of
+occurrence of prior E type events.
+Consider an example. Suppose that in recorded history there have been 100,000
+people who have smoked at least a pack of cigarettes a day for 20 years. Suppose
+that among them 12,000 developed lung cancer. Taking nothing else into account
+we can say that the base rate of getting lung cancer for a person who smokes a
+pack a day for 20 years is 12%. The base rate of an event reflects the
+probability of that event with respect to a certain bare-minimum pool of
+evidence.
+Now consider a more complicated example. Suppose we are trying to figure out the
+probability that it will rain at a certain place on a given day in June -- say:
+June 22nd. Suppose we work for the weather channel. Assume that reliable records
+have been kept about the weather at this place for 100 years. And say that 30 of
+such years were years in which it rained. The base rate of its raining on June
+22nd at this place is thus 30%. Now, June 20th arrives and our viewership wants
+to know the likelihood of rain on the 22nd. There is now additional evidence
+which we can bring to bear on this event. We can see that there is a certain
+storm system at such-and-such a position from this place. Suppose the base rate
+of there being this kind of storm at this location on June 20th is 5%. And
+suppose that 3 of the 30 years that it rained on the 22nd there was such a storm
+at such a location. Using Bayes’ theorem, we can calculate a revised probability
+given the new evidence we have.
 P(A|B) = P(B|A) x P(A)
         P(B)
 A = it rains June 22nd this year
@@ -394,14 +374,14 @@ P(B) = base rate of 5%
 P(B|A) = probability that there was a storm at that location on June 20th given
 that it rained June 22nd - 10%
 P(A|B) = 0.1 x 0.3 / 0.05 = .6
-- this much should seem intuitive
-  - the probability of an event (quantum mechanics excluded) is not a fixed
-    value
-  - it changes as we revise the pool of evidence we have for that event
-  - it changes in a way that we can calculate
-  - just as it would be a mistake for the weather channel to stop at base rates
-    in its predictions of future weather events it would be a mistake for us to
-stop at the base rate in our calculations of the events we’re interested in
+Hence, we should now say that there is 60% chance of rain.
+The details of Bayes’ Theorem are not important. What is important is just that
+following be intuitive: the probability of an event (quantum mechanics excluded)
+is not a fixed value, it changes as we revise the pool of evidence we have for
+that event. Furthermore, it changes in a way that we can calculate. And finally,
+just as it would be a mistake for the weather channel to stop at base rates in
+its predictions of future weather events it would likewise be a mistake for us
+to stop at the base rate in our calculations of the events we’re interested in.
 
 5.2 The First Argument Reconsidered
 - here’s the argument again
