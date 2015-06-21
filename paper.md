@@ -393,11 +393,10 @@ beliefs correspond to our moral psychology, so probably most of our moral
 beliefs are false. 
 The problem with this argument is that it ignores the fact that it is always
 possible for a random process to be identical in result to another process. When
-this happens, however, it does not follow that the latter had the same
-likelihood of success as the random process. Probability is relative to pools of
-evidence. And there’s no reason to suppose from the information given that each
-process had the same pool of evidence saying that it would return the given
-result.
+this happens, however, it does not follow that the two had the same likelihood
+of bringing about the result. Probability is relative to pools of evidence. And
+there’s no reason to suppose from the information given that each process had
+the same pool of evidence saying that it would return the given result.
 To see this, consider an analogous argument. Imagine a person, Smith, who
 believes only a few very basic mathematical expressions: “2+3=5”, “9-1=8”, and
 “8x7=56”. Now imagine that a computer picks three random sentences out of the
@@ -415,18 +414,21 @@ true as the computer? The answer is no -- not unless Smith picked his beliefs
 randomly like the computer. All Smith should be consulting in determining the
 probability of his beliefs is the evidence he has for those beliefs. Were they
 taught to him by a reliable source? Are there any good proofs for them? Can they
-be confirmed empirically, e.g. by counting fingers? If he does this, then the
-result from the computer is irrelevant.
+be confirmed empirically, e.g. by counting fingers? If he is consulting such
+evidence, then the result from the computer is irrelevant.
 Street’s argument from probability is (in all important respects) identical to
 the mathematical argument run above. Street has succeeded in showing two things:
 that the pool of possible moral judgements dwarfs the pool of true moral
-judgments, and that our beliefs correspond to sentences picked by a random
-process from this pool. Note the similarity to Smith’s case: the pool of
-possible mathematical judgements dwarfs the pool of true mathematical judgments,
-and Smith’s beliefs correspond to sentences picked by a random process from this
-pool. But it seemed obvious in Smith’s case that he should not doubt his
-mathematical beliefs just because of this. So too, then, for us and our moral
-beliefs.
+judgments, and that our beliefs correspond to beliefs picked by a random process
+from this pool. Note the similarity to Smith’s case: the pool of possible
+mathematical judgements dwarfs the pool of true mathematical judgments, and
+Smith’s beliefs correspond to beliefs picked by a random process from this pool.
+But it seemed obvious in Smith’s case that he should not doubt his mathematical
+beliefs just because of this. So too, then, for us and our moral beliefs. Just
+because a random, unreliable process (evolution by natural selection) has picked
+a moral psychology that corresponds to many of the beliefs we have, it does not
+follow that whatever process of belief acquisition we have has the same
+likelihood of success as evolution.
 
 §6.0 The Argument from Coincidence
   Street has another argument against the negative realist:
